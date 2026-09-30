@@ -1,0 +1,88 @@
+Name,Type,Beds,Address,Ward,area covered,Services,Staff,Contact,source_file,normalized_name,latitude,longitude,coordinate_source,coordinate_confidence,geocoded_query,is_routable
+A. D. Halli H.C.,BBMP Health Centre,,"#4, 17th Cross, 4th Stage, 3rd Block, Basaveshwaranagar, Bangalore ? 79",105.0,106.0,,,22975671.0,bbmp_hospital_list.csv,a d halli hc,12.9376,77.5697,BBMP_UPHC_KML,high,A D Halli UPHC,True
+Anjanappa Garden H.C.,BBMP Health Centre,,"Near Balemandi, Binnypet, Bangalore",138.0,139.0,,,22975680.0,bbmp_hospital_list.csv,anjanappa garden hc,12.9112,77.604,BBMP_UPHC_KML,high,Anjanappa Garden UPHC,True
+Audugodi H.C.,BBMP Health Centre,,"Koramangala Road, Bangalore ? 30",146.0,147.0,,,22975870.0,bbmp_hospital_list.csv,audugodi hc,12.94276,77.613304,BBMP_UPHC_KML,high,ADUGODI UPHC,True
+Avalahalli H.C.,BBMP Health Centre,,"17th Main, Muneshwara Block, Avalahalli, Bangalore ? 85",157.0,,,,22975782.0,bbmp_hospital_list.csv,avalahalli hc,12.945877,77.548609,BBMP_UPHC_KML,high,AVALAHALLI UPHC,True
+Bagalur H.C.,BBMP Health Centre,,"Old Bagalur Layout, Bangalore",31.0,60.0,,,22975885.0,bbmp_hospital_list.csv,bagalur hc,,,,,,False
+Bapujinagar H.C.,BBMP Health Centre,,"2nd Main Road, Mysore Road, Near Ragavendra Road, Bangalore ? 26",132.0,134.0,,,22975793.0,bbmp_hospital_list.csv,bapujinagar hc,12.95478,77.540754,BBMP_UPHC_KML,high,Bapujinagar UHPC,True
+Bhuvaneshwari Nagar H.C.,BBMP Health Centre,,"Opp. Ganesha temple, C.V. Raman Nagar, Bangalore ? 93",57.0,58.0,,,22975884.0,bbmp_hospital_list.csv,bhuvaneshwari nagar hc,12.98465824,77.66580963,BBMP_UPHC_KML,high,UPHC Bhuvaneshwari Nagar,True
+C. T. Bed H. C.,BBMP Health Centre,,"4th Cross, Chennamanakere, BSK 2nd Stage, Near SSM School, Bangalore ? 28",164.0,183.0,,,22975775.0,bbmp_hospital_list.csv,c t bed h c,,,,,,False
+Gangondanahalli H.C.,BBMP Health Centre,,"Makahamasjid corp. hospital, Chandra Layout, Bangalore",128.0,,,,,bbmp_hospital_list.csv,gangondanahalli hc,12.9948,77.5261,BBMP_UPHC_KML,high,Gangondanahalli UPHC,True
+Govindrajnagar H.C.,BBMP Health Centre,,"Prashanthnagar Main Road, Govindrajnagar, Bangalore ? 79",103.0,104.0,,,,bbmp_hospital_list.csv,govindrajnagar hc,12.9781792996895,77.5337922996553,BBMP_KML,high,Govindarajnagar referal hospital,True
+J. P. Nagar H.C.,BBMP Health Centre,,"1st Phase, Sarakki, Bangalore ? 78",178.0,179.0,,,22975771.0,bbmp_hospital_list.csv,j p nagar hc,,,,,,False
+K. G. Halli H.C.,BBMP Health Centre,,"Behind K.G. Halli PHC, Near K.G. Halli Police Station, K.G. Halli, Bangalore",23.0,30.0,,,22975779.0,bbmp_hospital_list.csv,k g halli hc,13.0211807,77.6183733,BBMP_UPHC_KML,high,Kghalli uphc,True
+Kodihalli H.C.,BBMP Health Centre,,"Next to Maruthi Towers, Airport Road, Bangalore ? 08",112.0,88.0,,,22975879.0,bbmp_hospital_list.csv,kodihalli hc,12.9595713,77.6459812,BBMP_UPHC_KML,high,UPHC KodiHalli,True
+Koramangala H.C.,BBMP Health Centre,,"Lakshman Rao Nagar, Viveknagar, Bangalore ? 47",148.0,151.0,,,,bbmp_hospital_list.csv,koramangala hc,12.950067,77.618355,BBMP_UPHC_KML,high,Koramangala UPHC,True
+Kumaraswami Layout H. C.,BBMP Health Centre,,"Opp. To Police Station, K.S. Layout, Bangalore",181.0,182.0,,,22975789.0,bbmp_hospital_list.csv,kumaraswami layout h c,12.905569,77.563277,BBMP_UPHC_KML,high,Kumaraswamylayout UPHC,True
+Mathikere H.C.,BBMP Health Centre,,"B.K. Nagar, Bangalore ? 22",17.0,36.0,,,22975822.0,bbmp_hospital_list.csv,mathikere hc,13.02785,77.55382,BBMP_UPHC_KML,high,MATTHIKERE UPHC,True
+Moodalapalya H.C.,BBMP Health Centre,,"GKW Layout & Saraswathi, Bangalore ? 40",126.0,127.0,,,22975768.0,bbmp_hospital_list.csv,moodalapalya hc,12.9962,77.5573,BBMP_UPHC_KML,high,MOODALPALYA UPHC,True
+Murphy Town H.C.,BBMP Health Centre,,"Near Ulsoor Fish Market, Bangalore ? 08",80.0,91.0,,,,bbmp_hospital_list.csv,murphy town hc,12.9788052,77.6267726,BBMP_UPHC_KML,high,UPHC Murphy Town,True
+N. S. Palya H.C.,BBMP Health Centre,,"12th Cross, BTM layout, 2nd Stage, Bangalore ? 76",176.0,177.0,,,,bbmp_hospital_list.csv,n s palya hc,,,,,,False
+Nandini Layout H.C.,BBMP Health Centre,,"Jai Bhuvaneshwarinagar, behind KHB quarters, Nandini Layout, Bangalore ? 96",42.0,43.0,,,,bbmp_hospital_list.csv,nandini layout hc,,,,,,False
+Old Byappanahalli H.C.,BBMP Health Centre,,"Main Road, Near Water Tank, Bangalore ? 08",50.0,59.0,,,,bbmp_hospital_list.csv,old byappanahalli hc,12.9947001,77.6436532,BBMP_UPHC_KML,high,UPHC Old Byappanahalli,True
+Pantharpalya H.C.,BBMP Health Centre,,"Mysore Road main road, Nayanadahalli, Pantharapalya, Bangalore ? 26",131.0,158.0,,,22975890.0,bbmp_hospital_list.csv,pantharpalya hc,12.9735,77.6265,BBMP_UPHC_KML,high,Pantharapalya UPHC,True
+Robbertson Road H.C.,BBMP Health Centre,,"Robertson Road, Near Doddi, Frazer Town, Bangalore ? 46",61.0,78.0,,,,bbmp_hospital_list.csv,robbertson road hc,,,,,,False
+Shankar Nagar H. C.,BBMP Health Centre,,"6th Cross, Vijayanandnagar, Mahalakshmi Layout, Bangalore ? 57",44.0,38.0,,,22975674.0,bbmp_hospital_list.csv,shankar nagar h c,12.953853,77.58549,BBMP_UPHC_KML,high,Shankarnagar UPHC,True
+Sulthan Palya H.C.,BBMP Health Centre,,"Behind Pushpanjali Theatre, Near Sulthanpalya, Bangalore",32.0,33.0,,,,bbmp_hospital_list.csv,sulthan palya hc,13.0223144,77.6027155,BBMP_UPHC_KML,high,UPHC Sulthan Palya,True
+Taskar Town H.C.,BBMP Health Centre,,"Shivajinagar, Bundimutt, Bangalore ? 01",63.0,92.0,,,,bbmp_hospital_list.csv,taskar town hc,12.9883487,77.6040344,BBMP_UPHC_KML,high,TASKER TOWN UPHC,True
+Thavarekere H. C.,BBMP Health Centre,,"1st Main Road, DRC Post, Bangalore ? 76",152.0,171.0,,,22975777.0,bbmp_hospital_list.csv,thavarekere h c,12.921536,77.610004,BBMP_UPHC_KML,high,THAVAREKERE UPHC,True
+Vidyapeeta H.C.,BBMP Health Centre,,"Vidhyapeeta Circle, Srinagar, Bangalore ? 52",161.0,163.0,,,,bbmp_hospital_list.csv,vidyapeeta hc,12.935437,77.560394,BBMP_UPHC_KML,high,VIDYAPEETA UPHC,True
+Yarabnagar H. C.,BBMP Health Centre,,"9th Main, BSK 2nd Stage, Bangalore",180.0,,,,,bbmp_hospital_list.csv,yarabnagar h c,12.917523,77.568568,BBMP_UPHC_KML,high,Yarab Nagar UPHC,True
+Azadnagar UFWC,BBMP Urban Family Welfare Centre,,"Kasturba Nagar, Mysore Road, Bangalore ? 26",141.0,136.0,,,22975787.0,bbmp_hospital_list.csv,azadnagar ufwc,,,,,,False
+Banashankari UFWC,BBMP Urban Family Welfare Centre,,"Near Police Station, 27th Cross, 17th Main, 2nd Stage, Banashankari, Bangalore ? 70",,,,,,bbmp_hospital_list.csv,banashankari ufwc,12.922828,77.564685,BBMP_UPHC_KML,high,BANASHANKARI UFWC,True
+Chellaram UFWC,BBMP Urban Family Welfare Centre,,"Opp. Vihal Theatre, Magadi Main Road, Kamakshipalya, Bangalore ? 70",101.0,102.0,,,22975669.0,bbmp_hospital_list.csv,chellaram ufwc,,,,,,False
+Cox Town UFWC,BBMP Urban Family Welfare Centre,,"M. M. Road, Opp. Cox Town Market, Bangalore ? 05",,,,,22975881.0,bbmp_hospital_list.csv,cox town ufwc,,,,,,False
+D. J. Halli UFWC,BBMP Urban Family Welfare Centre,,"Opp. Football Stadium, Near Ananth Theatre, Bangalore ? 45",47.0,48.0,,,22975684.0,bbmp_hospital_list.csv,d j halli ufwc,,,,,,False
+Dasappa UFWC,BBMP Urban Family Welfare Centre,,"Narasimharaja Road, Town Hall, Bangalore ? 02",110.0,119.0,,,,bbmp_hospital_list.csv,dasappa ufwc,,,,,,False
+Ganganagara UFWC,BBMP Urban Family Welfare Centre,,"3rd Main, 3rd Cross, HMT Layout, Banglore ? 32",20.0,34.0,,,22975795.0,bbmp_hospital_list.csv,ganganagara ufwc,,,,,,False
+Goripalya UFWC,BBMP Urban Family Welfare Centre,,,135.0,137.0,,,22975798.0,bbmp_hospital_list.csv,goripalya ufwc,,,,,,False
+J. J. R. Nagar UFWC,BBMP Urban Family Welfare Centre,,"Hospital Main Road, Padarayanapura, 9th Main, Sangam circle, JJR Nagar Bus stop, Bangalore",,,,,,bbmp_hospital_list.csv,j j r nagar ufwc,,,,,,False
+Jayanagar UFWC,BBMP Urban Family Welfare Centre,,"9th Main, 2nd Block, Jayanagar, Bangalore -11",153.0,169.0,,,22975871.0,bbmp_hospital_list.csv,jayanagar ufwc,12.940667,77.584131,BBMP_UPHC_KML,high,Jayanagara UPHC,True
+M.R. Palya UFWC,BBMP Urban Family Welfare Centre,,"J. C. Nagar, Main Road, Bangalore ? 06",46.0,62.0,,,22975676.0,bbmp_hospital_list.csv,mr palya ufwc,,,,,,False
+Magadi Road UFWC,BBMP Urban Family Welfare Centre,,"2nd Cross, Near BWSSB Water Tank, Magadi Road, Bangalore ? 23",121.0,122.0,,,22975682.0,bbmp_hospital_list.csv,magadi road ufwc,12.9618,77.5978,BBMP_UPHC_KML,high,Magadi Road UPHC,True
+Manvarthpet UFWC,BBMP Urban Family Welfare Centre,,"Balepet Circle, K. V. Temple Road, Bangalore ? 53",120.0,,,,,bbmp_hospital_list.csv,manvarthpet ufwc,13.032657,77.558732,BBMP_UPHC_KML,high,Manvarthpete UPHC,True
+N. R. Colony UFWC,BBMP Urban Family Welfare Centre,,"Subbaraam Shetty Road, Basavanagudi, Bangalore ? 04",154.0,167.0,,,22975667.0,bbmp_hospital_list.csv,n r colony ufwc,,,,,,False
+Palace Guttahalli UFWC,BBMP Urban Family Welfare Centre,,"City Corporation Maternity Home. Palace Guttahalli, Bangalore ? 03",,,,,,bbmp_hospital_list.csv,palace guttahalli ufwc,,,,,,False
+R. C. Pura UFWC,BBMP Urban Family Welfare Centre,,,76.0,97.0,,,22975867.0,bbmp_hospital_list.csv,r c pura ufwc,12.949,77.5635,BBMP_UPHC_KML,high,RC PURA UPHC,True
+Rajajinagar UFWC,BBMP Urban Family Welfare Centre,,"6th Block, Bhashyam Circle, Rajajinagar, Bangalore ? 10",108.0,,,,,bbmp_hospital_list.csv,rajajinagar ufwc,,,,,,False
+Shanthinagar UFWC,BBMP Urban Family Welfare Centre,,"Near Hockey Stadium, Nanjappa Circle, Bangalore ? 27",116.0,117.0,,,22975790.0,bbmp_hospital_list.csv,shanthinagar ufwc,12.9586088,77.6009199,BBMP_UPHC_KML,high,UPHC Shanthinagara,True
+Sirsi Road UFWC,BBMP Urban Family Welfare Centre,,"7th Cross, Chamarajpet, Bangalore ? 18",,,,,22975781.0,bbmp_hospital_list.csv,sirsi road ufwc,,,,,,False
+Sonnenahalli UFWC,BBMP Urban Family Welfare Centre,,"Opp. Ganesha Temple, Vanarpet, Viveknagar, Bangalore ? 47",,,,,22975876.0,bbmp_hospital_list.csv,sonnenahalli ufwc,,,,,,False
+Srirampura UFWC,BBMP Urban Family Welfare Centre,,"Near Police Station, Srirampuram, Bangalore ? 21",,,,,,bbmp_hospital_list.csv,srirampura ufwc,,,,,,False
+Srirampuram Lions UFWC,BBMP Urban Family Welfare Centre,,"Sirur Park Road, Seshadripuram, Bangalore ? 20",,,,,,bbmp_hospital_list.csv,srirampuram lions ufwc,,,,,,False
+T. R. Mill UFWC,BBMP Urban Family Welfare Centre,,"Opp. Deer Park, Dhobhighat",156.0,162.0,,,22975685.0,bbmp_hospital_list.csv,t r mill ufwc,,,,,,False
+Ulsoor UFWC,BBMP Urban Family Welfare Centre,,"Cambridge Road, Near Police Station, Ulsoor, Bangalore ? 08",89.0,90.0,,,,bbmp_hospital_list.csv,ulsoor ufwc,,,,,,False
+W. Chord Road UFWC,BBMP Urban Family Welfare Centre,,"9th Main, 2nd Cross, Vijayanagar, Bangalore ? 40",124.0,133.0,,,,bbmp_hospital_list.csv,w chord road ufwc,,,,,,False
+Yeshwanthpura UFWC,BBMP Urban Family Welfare Centre,,"Opp. Railway Station, Yeshwanthpura, Bangalore ? 22",,,,,,bbmp_hospital_list.csv,yeshwanthpura ufwc,13.022506,77.55554,BBMP_UPHC_KML,high,YASHAVANTHPUR UPHC,True
+Austin Town Maternity Home,BBMP Maternity Home,,"Near Austin Town Bus stop, Bangalore ? 47",114.0,115.0,,,22975868.0,bbmp_maternity_hospitals.csv,austin town maternity home,,,,,,False
+Azadnagar Maternity Home,BBMP Maternity Home,,"Kasturba Nagar, Mysore Road, Bangalore ? 26",,,,,,bbmp_maternity_hospitals.csv,azadnagar maternity home,,,,,,False
+Cottonpet Maternity Home,BBMP Maternity Home,,"Anjaneya Temple Street, Cottonpet, Bangalore ? 53",,,,,,bbmp_maternity_hospitals.csv,cottonpet maternity home,,,,,,False
+Cox Town Maternity Home,BBMP Maternity Home,,"M. M. Road, Opp. Cox Town Market, Bangalore ? 05",,,,,,bbmp_maternity_hospitals.csv,cox town maternity home,,,,,,False
+D. J. Halli Maternity Home,BBMP Maternity Home,,"Opp. Football Stadium, Near Ananth Theatre, Bangalore ? 45",,,,,,bbmp_maternity_hospitals.csv,d j halli maternity home,,,,,,False
+Dasappa Maternity Home,BBMP Maternity Home,,"Near Town Hall, SGPS, Bangalore ? 02",110.0,119.0,,,22975684.0,bbmp_maternity_hospitals.csv,dasappa maternity home,,,,,,False
+Ganganagara Maternity Home,BBMP Maternity Home,,"3rd Main, 3rd Cross, HMT Layout, Banglore ? 32",,,,,22975878.0,bbmp_maternity_hospitals.csv,ganganagara maternity home,,,,,,False
+Gavipuram Guttahalli Maternity Home ,BBMP Maternity Home,,"Near Police Station, Kempe Gowda Nagar, Bangalore ? 18",,,,,,bbmp_maternity_hospitals.csv,gavipuram guttahalli maternity home,,,,,,False
+H. Siddaiah Maternity Home,BBMP Maternity Home,,"Near H. Siddaiah Referral Hospital, Off J. C. Road, H. Siddaiah Road, Bangalore ? 02",,,,,,bbmp_maternity_hospitals.csv,h siddaiah maternity home,,,,,,False
+Jayanagar Maternity Home,BBMP Maternity Home,,"9th Main, 2nd Block, Jayanagar, Bangalore -11",,,,,22975873.0,bbmp_maternity_hospitals.csv,jayanagar maternity home,,,,,,False
+Magadi Road Maternity Home,BBMP Maternity Home,,"2nd Cross, Near BWSSB Water Tank, Magadi Road, Bangalore ? 23",,,,,,bbmp_maternity_hospitals.csv,magadi road maternity home,,,,,,False
+Manvarthpet Maternity Home,BBMP Maternity Home,,"Balepet Circle, K. V. Temple Road, Bangalore ? 53",,,,,22975796.0,bbmp_maternity_hospitals.csv,manvarthpet maternity home,,,,,,False
+Munireddy Palya Maternity Home,BBMP Maternity Home,,"J. C. Nagar Main Road, Bangalore ? 06",,,,,22975780.0,bbmp_maternity_hospitals.csv,munireddy palya maternity home,,,,,,False
+N. R. Colony Maternity Home,BBMP Maternity Home,,"Subbaraam Shetty Road, Basavanagudi, Bangalore ? 04",,,,,,bbmp_maternity_hospitals.csv,n r colony maternity home,,,,,,False
+Nandini Layout Maternity Home,BBMP Maternity Home,,"Jai Bhuvaneshwarinagar, behind KHB quarters, Nandini Layout, Bangalore ? 96",,,,,22975883.0,bbmp_maternity_hospitals.csv,nandini layout maternity home,,,,,,False
+Palace Guttahalli Maternity Home,BBMP Maternity Home,,"City Corporation Maternity Home. Palace Guttahalli, Bangalore ? 03",,,,,22975666.0,bbmp_maternity_hospitals.csv,palace guttahalli maternity home,,,,,,False
+Pobbathi Maternity Home,BBMP Maternity Home,,"Sajjan Rao Circle, V. V. Puram, Bangalore ? 04",143.0,,,,22975668.0,bbmp_maternity_hospitals.csv,pobbathi maternity home,,,,,,False
+Rajajinagar Maternity Home,BBMP Maternity Home,,"6th Block, Bhashyam Circle, Rajajinagar, Bangalore ? 10",,,,,,bbmp_maternity_hospitals.csv,rajajinagar maternity home,,,,,,False
+Shanthinagar Maternity Home,BBMP Maternity Home,,"Near Hockey Stadium, Nanjappa Circle, Bangalore ? 27",,,,,22975888.0,bbmp_maternity_hospitals.csv,shanthinagar maternity home,,,,,,False
+Sirsi Road Maternity Home,BBMP Maternity Home,,"7th Cross, Chamarajpet, Bangalore ? 18",,,,,22975887.0,bbmp_maternity_hospitals.csv,sirsi road maternity home,12.9610033996565,77.5611433002884,BBMP_KML,high,Sirsi road maternity home & referal hospital,True
+Thimmaiah Road Maternity Home,BBMP Maternity Home,,"K. P. J. M. H., Bharathinagar, Bangalore ? 01",,,,,,bbmp_maternity_hospitals.csv,thimmaiah road maternity home,,,,,,False
+Wilson Garden Maternity Home,BBMP Maternity Home,,"9th Cross, 6th Main, Wilson Garden, Bangalore ? 27",,,,,,bbmp_maternity_hospitals.csv,wilson garden maternity home,,,,,,False
+Yediyur Maternity Home,BBMP Maternity Home,,"4th Cross, Jayanagar 7th Block, Kanakapura Main Road, Bangalore ? 82",,,,,,bbmp_maternity_hospitals.csv,yediyur maternity home,,,,,,False
+Yeshwanthpura Maternity Home,BBMP Maternity Home,,"Opp. Railway Station, Yeshwanthpura, Bangalore ? 22",,,,,,bbmp_maternity_hospitals.csv,yeshwanthpura maternity home,,,,,,False
+H. Siddaiah Road Hospital,BBMP Referral Hospital,,"Next to Lions Eye Hosital, Off J. C. Road, H. Siddaiah Road, Bangalore ? 02",,,,,,bbmp_referral_hospitals.csv,h siddaiah road hospital,12.9564243000259,77.5822446998974,BBMP_KML,high,H siddaiah road referal hospital,True
+Hosahalli Referral Hospital,BBMP Referral Hospital,,"Near Jayamunirao Circle, Vijayanagar, 5th Main, M. C. Layout, Vijayanagar, Bangalore ? 40",,,,,,bbmp_referral_hospitals.csv,hosahalli referral hospital,,,,,,False
+J. J. R. Nagar Referral Hospital,BBMP Referral Hospital,,"Hospital Main Road, Padarayanapura, 9th Main, Sangam circle, JJR Nagar Bus stop, Bangalore",,,,,,bbmp_referral_hospitals.csv,j j r nagar referral hospital,,,,,,False
+Srirampuram Referral Hospital,BBMP Referral Hospital,,"Near Police Station, Srirampuram, Bangalore ? 21",,,,,22975776.0,bbmp_referral_hospitals.csv,srirampuram referral hospital,12.9909150003976,77.5650183998292,BBMP_KML,high,Srirampura referal hospital,True
+Ulsoor Referral Hospital,BBMP Referral Hospital,,"Cambridge Road, Near Police Station, Ulsoor, Bangalore ? 08",,,,,,bbmp_referral_hospitals.csv,ulsoor referral hospital,,,,,,False
+Banashankari Referral Hospital,BBMP Referral Hospital,,"Near Police Station, 27th Cross, 17th Main, 2nd Stage, Banashankari, Bangalore ? 70",,,,,,bbmp_referral_hospitals.csv,banashankari referral hospital,12.9229566003807,77.5646392996073,BBMP_KML,high,Banashankari referral hospital,True
+Halsuru reffrel hospital,BBMP Referral/UCHC Facility,,,,,,,,referral_hospitals.kml,halsuru reffrel hospital,12.9736012995553,77.6263457998658,BBMP_KML,high,Halsuru reffrel hospital,True
+UCHC Kengeri,BBMP Referral/UCHC Facility,,,,,,,,referral_hospitals.kml,uchc kengeri,12.9101563004134,77.4839384000628,BBMP_KML,high,UCHC Kengeri,True

@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Model/cache files
+.cache/
+.huggingface/
+huggingface/
+models/
+*.bin
+*.safetensors
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Audio/video generated during testing
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.webm
+
+# Local output files
+outputs/
+temp/
+tmp/
+
+# Secrets / API keys
+*.key
+*.pem
+secrets/
+
+# Local MedPulse database
+data/medpulse.db
+
+# Generated coordinate/audit files
+data/processed/coordinate_audit.csv
+data/processed/coordinate_verification.csv
+data/processed/google_coordinate_audit.csv
+data/processed/unresolved_hospitals.csv

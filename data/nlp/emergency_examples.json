@@ -1,0 +1,4997 @@
+[
+  {
+    "id": "ex_001",
+    "text": "I have severe chest pain and I'm sweating",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_002",
+    "text": "मुझे बहुत तेज़ सीने में दर्द हो रहा है और पसीना आ रहा है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_003",
+    "text": "ನನಗೆ ತುಂಬಾ ಎದೆ ನೋವು ಆಗುತ್ತಿದೆ ಮತ್ತು ಬೆವರು ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_004",
+    "text": "எனக்கு மிகவும் கடுமையான நெஞ்சு வலி இருக்கிறது, வியர்க்கிறது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_005",
+    "text": "నాకు చాలా తీవ్రమైన ఛాతీ నొప్పి ఉంది, చెమటలు పడుతున్నాయి",
+    "language": "te",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_006",
+    "text": "എനിക്ക് കഠിനമായ നെഞ്ചുവേദനയും വിയർപ്പും ഉണ്ട്",
+    "language": "ml",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_007",
+    "text": "I can't breathe properly and I'm gasping for air",
+    "language": "en",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_008",
+    "text": "मुझे ठीक से सांस नहीं आ रही है और मैं हांफ रहा हूँ",
+    "language": "hi",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_009",
+    "text": "ನನಗೆ ಸರಿಯಾಗಿ ಉಸಿರಾಡಲು ಆಗುತ್ತಿಲ್ಲ, ಉಸಿರಿಗಾಗಿ ಹಪಹಪಿಸುತ್ತಿದ್ದೇನೆ",
+    "language": "kn",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_010",
+    "text": "என்னால் சரியாக சுவாசிக்க முடியவில்லை, மூச்சுத் திணறுகிறது",
+    "language": "ta",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_011",
+    "text": "నాకు సరిగ్గా శ్వాస తీసుకోలేకపోతున్నాను, ఊపిరి ఆడటం లేదు",
+    "language": "te",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_012",
+    "text": "എനിക്ക് ശരിയായി ശ്വസിക്കാൻ കഴിയുന്നില്ല, ശ്വാസം മുട്ടുന്നു",
+    "language": "ml",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "gasping"
+    ]
+  },
+  {
+    "id": "ex_013",
+    "text": "My face feels weak on one side and I can't speak clearly",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_014",
+    "text": "मेरे चेहरे का एक तरफ का हिस्सा कमजोर लग रहा है और मैं ठीक से बोल नहीं पा रहा हूँ",
+    "language": "hi",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_015",
+    "text": "ನನ್ನ ಮುಖದ ಒಂದು ಬದಿ ದುರ್ಬಲವಾಗಿದೆ ಮತ್ತು ನನಗೆ ಸರಿಯಾಗಿ ಮಾತನಾಡಲು ಆಗುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_016",
+    "text": "என் முகத்தின் ஒரு பக்கம் பலவீனமாக இருக்கிறது, என்னால் தெளிவாக பேச முடியவில்லை",
+    "language": "ta",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_017",
+    "text": "నా ముఖం ఒక వైపు బలహీనంగా ఉంది, నాకు స్పష్టంగా మాట్లాడలేకపోతున్నాను",
+    "language": "te",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_018",
+    "text": "എന്റെ മുഖത്തിന്റെ ഒരു വശം ദുർബലമാണ്, എനിക്ക് വ്യക്തമായി സംസാരിക്കാൻ കഴിയുന്നില്ല",
+    "language": "ml",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_019",
+    "text": "I fell from my bike and hurt my leg badly",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_020",
+    "text": "मैं बाइक से गिर गया और मेरे पैर में बहुत चोट लगी है",
+    "language": "hi",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_021",
+    "text": "ನಾನು ಬೈಕ್‌ನಿಂದ ಬಿದ್ದೆ ಮತ್ತು ನನ್ನ ಕಾಲಿಗೆ ತುಂಬಾ ಗಾಯವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_022",
+    "text": "நான் பைக்கில் இருந்து விழுந்துவிட்டேன், என் காலில் பலத்த காயம் ஏற்பட்டுள்ளது",
+    "language": "ta",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_023",
+    "text": "నేను బైక్ నుంచి పడిపోయాను, నా కాలికి చాలా గాయమైంది",
+    "language": "te",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_024",
+    "text": "ഞാൻ ബൈക്കിൽ നിന്ന് വീണു, എന്റെ കാലിന് ഗുരുതരമായി പരിക്കേറ്റു",
+    "language": "ml",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "severe leg injury"
+    ]
+  },
+  {
+    "id": "ex_025",
+    "text": "There is a lot of blood coming from my arm and it won't stop",
+    "language": "en",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_026",
+    "text": "मेरे हाथ से बहुत खून निकल रहा है और खून रुक नहीं रहा है",
+    "language": "hi",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_027",
+    "text": "ನನ್ನ ಕೈಯಿಂದ ತುಂಬಾ ರಕ್ತ ಬರುತ್ತಿದೆ ಮತ್ತು ರಕ್ತ ನಿಲ್ಲುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_028",
+    "text": "என் கையில் இருந்து நிறைய இரத்தம் வருகிறது, அது நிற்கவில்லை",
+    "language": "ta",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_029",
+    "text": "నా చేతి నుంచి చాలా రక్తం వస్తోంది, అది ఆగడం లేదు",
+    "language": "te",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_030",
+    "text": "എന്റെ കൈയിൽ നിന്ന് ധാരാളം രക്തം വരുന്നു, അത് നിർത്തുന്നില്ല",
+    "language": "ml",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy bleeding",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_031",
+    "text": "I got badly burned and my skin is blistering",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_032",
+    "text": "मैं बुरी तरह जल गया हूँ और मेरी त्वचा पर छाले पड़ रहे हैं",
+    "language": "hi",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_033",
+    "text": "ನನಗೆ ತುಂಬಾ ಸುಟ್ಟ ಗಾಯವಾಗಿದೆ ಮತ್ತು ಚರ್ಮದಲ್ಲಿ ಗುಳ್ಳೆಗಳು ಬರುತ್ತಿವೆ",
+    "language": "kn",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_034",
+    "text": "எனக்கு மோசமாக தீக்காயம் ஏற்பட்டுள்ளது, தோலில் கொப்புளங்கள் வருகின்றன",
+    "language": "ta",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_035",
+    "text": "నాకు తీవ్రంగా కాలింది, చర్మంపై బొబ్బలు వస్తున్నాయి",
+    "language": "te",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_036",
+    "text": "എനിക്ക് ഗുരുതരമായി പൊള്ളലേറ്റു, ചർമ്മത്തിൽ കുമിളകൾ വരുന്നു",
+    "language": "ml",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_037",
+    "text": "I accidentally swallowed some toilet cleaning liquid",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical ingestion"
+    ]
+  },
+  {
+    "id": "ex_038",
+    "text": "I think I took too many painkillers by mistake",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "suspected medication overdose"
+    ]
+  },
+  {
+    "id": "ex_039",
+    "text": "My child may have swallowed some tablets",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "PEDIATRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "possible tablet ingestion"
+    ]
+  },
+  {
+    "id": "ex_040",
+    "text": "I inhaled strong chemical fumes and now I feel dizzy",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical exposure",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_041",
+    "text": "I accidentally drank some pesticide",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion"
+    ]
+  },
+  {
+    "id": "ex_042",
+    "text": "I swallowed a household chemical and my throat is burning",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical ingestion",
+      "throat irritation"
+    ]
+  },
+  {
+    "id": "ex_043",
+    "text": "I was exposed to gas and now I am feeling confused",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "gas exposure",
+      "confusion"
+    ]
+  },
+  {
+    "id": "ex_044",
+    "text": "I took the wrong medicine and I am feeling very sick",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "wrong medication ingestion",
+      "feeling unwell"
+    ]
+  },
+  {
+    "id": "ex_045",
+    "text": "There was a chemical spill and I started coughing after breathing it in",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical exposure",
+      "coughing"
+    ]
+  },
+  {
+    "id": "ex_046",
+    "text": "I may have swallowed something poisonous but I am not sure what it was",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "possible poisoning"
+    ]
+  },
+  {
+    "id": "ex_047",
+    "text": "My face is swelling and I am having trouble breathing after eating something",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "facial swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_048",
+    "text": "I suddenly developed hives all over my body",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "widespread hives"
+    ]
+  },
+  {
+    "id": "ex_049",
+    "text": "My lips are swelling after I ate peanuts",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_050",
+    "text": "I am having difficulty breathing after an insect sting",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY",
+      "ANIMAL_INSECT_BITE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "insect sting",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_051",
+    "text": "My throat feels like it is closing after taking a medicine",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat swelling",
+      "medication exposure"
+    ]
+  },
+  {
+    "id": "ex_052",
+    "text": "I have a rash and severe itching after taking a new tablet",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "rash",
+      "severe itching"
+    ]
+  },
+  {
+    "id": "ex_053",
+    "text": "My eyes and face became swollen very suddenly",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial swelling",
+      "eye swelling"
+    ]
+  },
+  {
+    "id": "ex_054",
+    "text": "I feel dizzy and weak after eating something I may be allergic to",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "dizziness",
+      "possible food allergy"
+    ]
+  },
+  {
+    "id": "ex_055",
+    "text": "My tongue is swelling and I cannot swallow properly",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "tongue swelling",
+      "difficulty swallowing"
+    ]
+  },
+  {
+    "id": "ex_056",
+    "text": "I suddenly broke out in hives and my chest feels tight",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "hives",
+      "chest tightness"
+    ]
+  },
+  {
+    "id": "ex_057",
+    "text": "I have a very high fever and I am extremely weak",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "high fever",
+      "severe weakness"
+    ]
+  },
+  {
+    "id": "ex_058",
+    "text": "I have had a fever for three days and it keeps getting worse",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "persistent fever"
+    ]
+  },
+  {
+    "id": "ex_059",
+    "text": "My child has a high fever and is unusually sleepy",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION",
+      "PEDIATRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "high fever",
+      "unusual sleepiness"
+    ]
+  },
+  {
+    "id": "ex_060",
+    "text": "I have fever with severe chills and shaking",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "severe chills"
+    ]
+  },
+  {
+    "id": "ex_061",
+    "text": "I have a high fever and I am having trouble staying awake",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "high fever",
+      "altered alertness"
+    ]
+  },
+  {
+    "id": "ex_062",
+    "text": "I have fever, vomiting, and severe weakness",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "vomiting",
+      "weakness"
+    ]
+  },
+  {
+    "id": "ex_063",
+    "text": "I have fever and a painful rash spreading across my body",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "spreading rash"
+    ]
+  },
+  {
+    "id": "ex_064",
+    "text": "I have fever with a severe headache and neck pain",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "fever",
+      "severe headache",
+      "neck pain"
+    ]
+  },
+  {
+    "id": "ex_065",
+    "text": "I have a fever and I am becoming confused",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "fever",
+      "confusion"
+    ]
+  },
+  {
+    "id": "ex_066",
+    "text": "I have fever and difficulty breathing",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_067",
+    "text": "I suddenly developed severe stomach pain",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_068",
+    "text": "My stomach hurts badly and I cannot stop vomiting",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe abdominal pain",
+      "persistent vomiting"
+    ]
+  },
+  {
+    "id": "ex_069",
+    "text": "I have severe pain in the lower right side of my abdomen",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lower right abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_070",
+    "text": "My abdomen is swollen and extremely painful",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "abdominal swelling",
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_071",
+    "text": "I have severe abdominal pain and there is blood in my stool",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL",
+      "BLEEDING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe abdominal pain",
+      "blood in stool"
+    ]
+  },
+  {
+    "id": "ex_072",
+    "text": "I have intense stomach cramps and I feel like I am going to faint",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe abdominal cramps",
+      "near fainting"
+    ]
+  },
+  {
+    "id": "ex_073",
+    "text": "I have severe abdominal pain after an injury",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "abdominal pain",
+      "recent injury"
+    ]
+  },
+  {
+    "id": "ex_074",
+    "text": "I am vomiting blood and my stomach hurts badly",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL",
+      "BLEEDING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "vomiting blood",
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_075",
+    "text": "I have sudden severe pain in my upper abdomen with vomiting",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "upper abdominal pain",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_076",
+    "text": "My abdominal pain is getting worse and I cannot stand upright",
+    "language": "en",
+    "categories": [
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "worsening abdominal pain",
+      "difficulty standing"
+    ]
+  },
+  {
+    "id": "ex_077",
+    "text": "She is pregnant and having heavy vaginal bleeding",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "BLEEDING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "heavy bleeding"
+    ]
+  },
+  {
+    "id": "ex_078",
+    "text": "She is pregnant and having very strong contractions",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "strong contractions"
+    ]
+  },
+  {
+    "id": "ex_079",
+    "text": "Her water broke and she is having severe pain",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "water breaking",
+      "severe pain"
+    ]
+  },
+  {
+    "id": "ex_080",
+    "text": "She is pregnant and has sudden severe abdominal pain",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "ABDOMINAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_081",
+    "text": "The baby has not been moving normally today",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "reduced fetal movement"
+    ]
+  },
+  {
+    "id": "ex_082",
+    "text": "She is pregnant and feels like she is going to faint",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "near fainting"
+    ]
+  },
+  {
+    "id": "ex_083",
+    "text": "She is having contractions very close together",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "frequent contractions"
+    ]
+  },
+  {
+    "id": "ex_084",
+    "text": "She is pregnant and has heavy bleeding with severe abdominal pain",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "BLEEDING",
+      "ABDOMINAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "heavy bleeding",
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_085",
+    "text": "She is pregnant and suddenly developed a severe headache and blurred vision",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "severe headache",
+      "blurred vision"
+    ]
+  },
+  {
+    "id": "ex_086",
+    "text": "She is pregnant and has severe back pain with contractions",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pregnancy",
+      "back pain",
+      "contractions"
+    ]
+  },
+  {
+    "id": "ex_087",
+    "text": "I have a little stomach discomfort after lunch",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild stomach discomfort"
+    ]
+  },
+  {
+    "id": "ex_088",
+    "text": "I have a mild headache but otherwise I feel fine",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild headache"
+    ]
+  },
+  {
+    "id": "ex_089",
+    "text": "I feel slightly tired today",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild fatigue"
+    ]
+  },
+  {
+    "id": "ex_090",
+    "text": "My throat is a little sore since this morning",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild sore throat"
+    ]
+  },
+  {
+    "id": "ex_091",
+    "text": "I have a small bruise on my arm",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise"
+    ]
+  },
+  {
+    "id": "ex_092",
+    "text": "I have a slight cough but I can breathe normally",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild cough"
+    ]
+  },
+  {
+    "id": "ex_093",
+    "text": "I felt dizzy for a few seconds but I feel normal now",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "brief dizziness"
+    ]
+  },
+  {
+    "id": "ex_094",
+    "text": "I have mild muscle pain after exercising",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "muscle pain after exercise"
+    ]
+  },
+  {
+    "id": "ex_095",
+    "text": "My nose is slightly blocked",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild nasal congestion"
+    ]
+  },
+  {
+    "id": "ex_096",
+    "text": "I have a small cut on my finger and it has stopped bleeding",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor cut"
+    ]
+  },
+  {
+    "id": "ex_097",
+    "text": "I have some mild back pain after sitting for a long time",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild back pain"
+    ]
+  },
+  {
+    "id": "ex_098",
+    "text": "I have a little nausea but I can eat and drink normally",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild nausea"
+    ]
+  },
+  {
+    "id": "ex_099",
+    "text": "My eyes are slightly irritated after using the computer",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild eye irritation"
+    ]
+  },
+  {
+    "id": "ex_100",
+    "text": "I have a mild fever but I am otherwise comfortable",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild fever"
+    ]
+  },
+  {
+    "id": "ex_101",
+    "text": "I have a little chest discomfort after running but it went away quickly",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "brief chest discomfort"
+    ]
+  },
+  {
+    "id": "ex_102",
+    "text": "I have some gas and mild bloating",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "gas",
+      "mild bloating"
+    ]
+  },
+  {
+    "id": "ex_103",
+    "text": "I have a mild skin rash that is not spreading",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild rash"
+    ]
+  },
+  {
+    "id": "ex_104",
+    "text": "I am feeling slightly tired after a long day",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "fatigue"
+    ]
+  },
+  {
+    "id": "ex_105",
+    "text": "My knee hurts a little after walking for several hours",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild knee pain"
+    ]
+  },
+  {
+    "id": "ex_106",
+    "text": "I have a mild headache because I did not sleep well",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild headache",
+      "lack of sleep"
+    ]
+  },
+  {
+    "id": "ex_107",
+    "text": "I have slight stomach pain but it is getting better",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild stomach pain"
+    ]
+  },
+  {
+    "id": "ex_108",
+    "text": "I have a small insect bite that is only slightly itchy",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor insect bite",
+      "mild itching"
+    ]
+  },
+  {
+    "id": "ex_109",
+    "text": "I have a little throat irritation after drinking something cold",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild throat irritation"
+    ]
+  },
+  {
+    "id": "ex_110",
+    "text": "I feel a little weak because I have not eaten since morning",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild weakness"
+    ]
+  },
+  {
+    "id": "ex_111",
+    "text": "A dog bit my hand and the wound is bleeding",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "dog bite",
+      "hand wound",
+      "bleeding"
+    ]
+  },
+  {
+    "id": "ex_112",
+    "text": "A stray dog bit my leg and broke the skin",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "dog bite",
+      "leg wound"
+    ]
+  },
+  {
+    "id": "ex_113",
+    "text": "I was bitten by a snake and my leg is swelling",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "snake bite",
+      "leg swelling"
+    ]
+  },
+  {
+    "id": "ex_114",
+    "text": "A bee stung me and my face is starting to swell",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bee sting",
+      "facial swelling"
+    ]
+  },
+  {
+    "id": "ex_115",
+    "text": "I was bitten by an unknown animal and the wound is deep",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "animal bite",
+      "deep wound"
+    ]
+  },
+  {
+    "id": "ex_116",
+    "text": "A snake bit me and I am feeling dizzy",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "snake bite",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_117",
+    "text": "I was stung by several insects and now I am having trouble breathing",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "multiple insect stings",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_118",
+    "text": "A dog bite on my arm is painful and swollen",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "dog bite",
+      "arm swelling",
+      "pain"
+    ]
+  },
+  {
+    "id": "ex_119",
+    "text": "I was bitten by an insect and the swelling is spreading",
+    "language": "en",
+    "categories": [
+      "ANIMAL_INSECT_BITE"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "insect bite",
+      "spreading swelling"
+    ]
+  },
+  {
+    "id": "ex_120",
+    "text": "My child fell down and is crying with a severe head injury",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "TRAUMA",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "fall",
+      "head injury"
+    ]
+  },
+  {
+    "id": "ex_121",
+    "text": "My baby is having difficulty breathing",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "baby",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_122",
+    "text": "My child has been vomiting repeatedly and is becoming very weak",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "child",
+      "persistent vomiting",
+      "weakness"
+    ]
+  },
+  {
+    "id": "ex_123",
+    "text": "My child has a very high fever and is difficult to wake up",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "FEVER_INFECTION"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "high fever",
+      "difficulty waking"
+    ]
+  },
+  {
+    "id": "ex_124",
+    "text": "My baby is having a seizure",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "NEUROLOGICAL",
+      "SEIZURE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "baby",
+      "seizure"
+    ]
+  },
+  {
+    "id": "ex_125",
+    "text": "My child swallowed some medicine by mistake",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "child",
+      "medicine ingestion"
+    ]
+  },
+  {
+    "id": "ex_126",
+    "text": "My child has severe stomach pain and keeps crying",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "ABDOMINAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "child",
+      "severe abdominal pain"
+    ]
+  },
+  {
+    "id": "ex_127",
+    "text": "My child fell from the stairs and cannot move one arm",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "child",
+      "fall",
+      "arm injury"
+    ]
+  },
+  {
+    "id": "ex_128",
+    "text": "My child has a severe allergic reaction and the face is swelling",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "allergic reaction",
+      "facial swelling"
+    ]
+  },
+  {
+    "id": "ex_129",
+    "text": "The person is having repeated shaking and is not responding",
+    "language": "en",
+    "categories": [
+      "SEIZURE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "repeated shaking",
+      "unresponsiveness"
+    ]
+  },
+  {
+    "id": "ex_130",
+    "text": "I suddenly collapsed and started shaking uncontrollably",
+    "language": "en",
+    "categories": [
+      "SEIZURE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "collapse",
+      "uncontrolled shaking"
+    ]
+  },
+  {
+    "id": "ex_131",
+    "text": "My child suddenly started shaking and became unresponsive",
+    "language": "en",
+    "categories": [
+      "SEIZURE",
+      "PEDIATRIC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "shaking",
+      "unresponsiveness"
+    ]
+  },
+  {
+    "id": "ex_132",
+    "text": "I am having jerking movements that I cannot control",
+    "language": "en",
+    "categories": [
+      "SEIZURE"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "uncontrolled jerking"
+    ]
+  },
+  {
+    "id": "ex_133",
+    "text": "He suddenly fell down and started convulsing",
+    "language": "en",
+    "categories": [
+      "SEIZURE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "fall",
+      "convulsions"
+    ]
+  },
+  {
+    "id": "ex_134",
+    "text": "She had a seizure and is still confused afterward",
+    "language": "en",
+    "categories": [
+      "SEIZURE",
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "seizure",
+      "post-event confusion"
+    ]
+  },
+  {
+    "id": "ex_135",
+    "text": "His body is suddenly stiff and he is not responding",
+    "language": "en",
+    "categories": [
+      "SEIZURE"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "body stiffness",
+      "unresponsiveness"
+    ]
+  },
+  {
+    "id": "ex_136",
+    "text": "I have crushing pressure in my chest that is not going away",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "crushing chest pressure"
+    ]
+  },
+  {
+    "id": "ex_137",
+    "text": "My chest pain started while I was walking and is getting worse",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "pain worsening with activity"
+    ]
+  },
+  {
+    "id": "ex_138",
+    "text": "I have chest pressure and pain spreading to my left arm",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "arm pain"
+    ]
+  },
+  {
+    "id": "ex_139",
+    "text": "My heart is racing and I feel like I might faint",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "rapid heartbeat",
+      "near fainting"
+    ]
+  },
+  {
+    "id": "ex_140",
+    "text": "I suddenly developed severe chest discomfort with sweating",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest discomfort",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_141",
+    "text": "I spilled boiling water on my arm and the skin is badly burned",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hot water burn",
+      "severe arm burn"
+    ]
+  },
+  {
+    "id": "ex_142",
+    "text": "My clothes caught fire and I have burns on my chest",
+    "language": "en",
+    "categories": [
+      "BURNS",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "fire burn",
+      "chest burns"
+    ]
+  },
+  {
+    "id": "ex_143",
+    "text": "I touched a hot metal surface and burned my hand badly",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "contact burn",
+      "hand burn"
+    ]
+  },
+  {
+    "id": "ex_144",
+    "text": "I was burned by an electrical wire and my hand hurts badly",
+    "language": "en",
+    "categories": [
+      "BURNS",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "electrical burn",
+      "hand pain"
+    ]
+  },
+  {
+    "id": "ex_145",
+    "text": "I fell and my wrist looks deformed and very swollen",
+    "language": "en",
+    "categories": [
+      "FRACTURE_MUSCULOSKELETAL",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "deformed wrist",
+      "swelling"
+    ]
+  },
+  {
+    "id": "ex_146",
+    "text": "I cannot put any weight on my leg after falling",
+    "language": "en",
+    "categories": [
+      "FRACTURE_MUSCULOSKELETAL",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "inability to bear weight"
+    ]
+  },
+  {
+    "id": "ex_147",
+    "text": "My ankle is extremely swollen and I cannot move it after an accident",
+    "language": "en",
+    "categories": [
+      "FRACTURE_MUSCULOSKELETAL",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "ankle swelling",
+      "restricted movement"
+    ]
+  },
+  {
+    "id": "ex_148",
+    "text": "I injured my shoulder and cannot move my arm properly",
+    "language": "en",
+    "categories": [
+      "FRACTURE_MUSCULOSKELETAL",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "shoulder injury",
+      "restricted arm movement"
+    ]
+  },
+  {
+    "id": "ex_149",
+    "text": "I have severe pressure in my chest and I am sweating heavily",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pressure",
+      "heavy sweating"
+    ]
+  },
+  {
+    "id": "ex_150",
+    "text": "मेरे सीने में अचानक बहुत तेज दर्द हुआ और सांस लेने में तकलीफ हो रही है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pain",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_151",
+    "text": "ನನ್ನ ಎದೆಯಲ್ಲಿ ತೀವ್ರವಾದ ನೋವು ಇದೆ ಮತ್ತು ನನಗೆ ತುಂಬಾ ಬೆವರು ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pain",
+      "heavy sweating"
+    ]
+  },
+  {
+    "id": "ex_152",
+    "text": "எனக்கு திடீரென்று கடுமையான மார்பு வலி வந்து மயக்கம் போல இருக்கிறது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pain",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_153",
+    "text": "నాకు ఛాతీలో బిగుతుగా ఉంది, చాలా చెమటలు పడుతున్నాయి",
+    "language": "te",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest tightness",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_154",
+    "text": "My chest feels very heavy and the pain is spreading to my left arm",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest heaviness",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_155",
+    "text": "I accidentally swallowed some cleaning liquid and now I feel sick",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical ingestion",
+      "nausea"
+    ]
+  },
+  {
+    "id": "ex_156",
+    "text": "मैंने गलती से बहुत सारी दवाइयां खा ली हैं",
+    "language": "hi",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "medication overdose"
+    ]
+  },
+  {
+    "id": "ex_157",
+    "text": "ಮಕ್ಕಳು ತಪ್ಪಾಗಿ ಕೆಲವು ಔಷಧಿ ಮಾತ್ರೆಗಳನ್ನು ನುಂಗಿದ್ದಾರೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "accidental medication ingestion"
+    ]
+  },
+  {
+    "id": "ex_158",
+    "text": "நான் தவறுதலாக பூச்சிக்கொல்லியை குடித்துவிட்டேன்",
+    "language": "ta",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion"
+    ]
+  },
+  {
+    "id": "ex_159",
+    "text": "నాకు తెలియకుండా ఎక్కువ మందులు తీసుకున్నాను, ఇప్పుడు వాంతులు వస్తున్నాయి",
+    "language": "te",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "medication overdose",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_160",
+    "text": "I may have swallowed a poisonous substance and my mouth is burning",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "poison ingestion",
+      "burning mouth"
+    ]
+  },
+  {
+    "id": "ex_161",
+    "text": "I am struggling to breathe and I cannot speak in full sentences",
+    "language": "en",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe breathing difficulty",
+      "difficulty speaking"
+    ]
+  },
+  {
+    "id": "ex_162",
+    "text": "मुझे बहुत ज्यादा सांस लेने में दिक्कत हो रही है और सीने में जकड़न है",
+    "language": "hi",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "breathing difficulty",
+      "chest tightness"
+    ]
+  },
+  {
+    "id": "ex_163",
+    "text": "ನನಗೆ ಉಸಿರಾಡಲು ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ ಮತ್ತು ಉಸಿರಾಟ ವೇಗವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "breathing difficulty",
+      "rapid breathing"
+    ]
+  },
+  {
+    "id": "ex_164",
+    "text": "எனக்கு மூச்சு விட மிகவும் கஷ்டமாக இருக்கிறது",
+    "language": "ta",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_165",
+    "text": "నాకు ఊపిరి తీసుకోవడం చాలా కష్టంగా ఉంది మరియు శ్వాస వేగంగా వస్తోంది",
+    "language": "te",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "breathing difficulty",
+      "rapid breathing"
+    ]
+  },
+  {
+    "id": "ex_166",
+    "text": "I am wheezing badly and feel like I cannot get enough air",
+    "language": "en",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "wheezing",
+      "air hunger"
+    ]
+  },
+  {
+    "id": "ex_167",
+    "text": "Suddenly one side of my face feels weak and my speech is slurred",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "facial weakness",
+      "slurred speech"
+    ]
+  },
+  {
+    "id": "ex_168",
+    "text": "मेरे शरीर के एक तरफ अचानक कमजोरी आ गई है और बोलने में परेशानी हो रही है",
+    "language": "hi",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_169",
+    "text": "ನನ್ನ ದೇಹದ ಒಂದು ಭಾಗದಲ್ಲಿ ಏಕಾಏಕಿ ದುರ್ಬಲತೆ ಬಂದಿದೆ ಮತ್ತು ಮಾತು ಸರಿಯಾಗಿ ಬರುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_170",
+    "text": "என் முகத்தின் ஒரு பக்கம் திடீரென்று பலவீனமாகி பேச்சு தெளிவாக வரவில்லை",
+    "language": "ta",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_171",
+    "text": "నా శరీరంలో ఒక వైపు అకస్మాత్తుగా బలహీనంగా ఉంది, మాట్లాడటం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_172",
+    "text": "I suddenly became very confused and cannot remember where I am",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "sudden confusion",
+      "memory difficulty"
+    ]
+  },
+  {
+    "id": "ex_173",
+    "text": "There is heavy bleeding from my leg and it is not stopping",
+    "language": "en",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy leg bleeding",
+      "uncontrolled bleeding"
+    ]
+  },
+  {
+    "id": "ex_174",
+    "text": "मेरे पैर से बहुत ज्यादा खून बह रहा है और रुक नहीं रहा",
+    "language": "hi",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy leg bleeding",
+      "uncontrolled bleeding"
+    ]
+  },
+  {
+    "id": "ex_175",
+    "text": "ನನ್ನ ಕೈಯಿಂದ ತುಂಬಾ ರಕ್ತ ಬರುತ್ತಿದೆ ಮತ್ತು ಅದು ನಿಲ್ಲುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy arm bleeding",
+      "uncontrolled bleeding"
+    ]
+  },
+  {
+    "id": "ex_176",
+    "text": "என் காலில் ஏற்பட்ட காயத்திலிருந்து அதிகமாக இரத்தம் வருகிறது, அது நிற்கவில்லை",
+    "language": "ta",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "heavy leg bleeding",
+      "uncontrolled bleeding"
+    ]
+  },
+  {
+    "id": "ex_177",
+    "text": "నా చేతికి గాయం అయింది, చాలా రక్తం వస్తోంది మరియు ఆగడం లేదు",
+    "language": "te",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "arm injury",
+      "heavy bleeding"
+    ]
+  },
+  {
+    "id": "ex_178",
+    "text": "I cut my hand deeply and the bleeding is soaking through the cloth",
+    "language": "en",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep hand cut",
+      "heavy bleeding"
+    ]
+  },
+  {
+    "id": "ex_179",
+    "text": "My lips are swelling and I am finding it hard to breathe after eating peanuts",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_180",
+    "text": "खाना खाने के बाद मेरे होंठ सूज गए हैं और मुझे सांस लेने में परेशानी हो रही है",
+    "language": "hi",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_181",
+    "text": "ಆಹಾರ ತಿಂದ ನಂತರ ನನ್ನ ತುಟಿಗಳು ಊದಿಕೊಂಡಿವೆ ಮತ್ತು ಉಸಿರಾಡಲು ಕಷ್ಟವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_182",
+    "text": "உணவு சாப்பிட்ட பிறகு என் உதடுகள் வீங்கி மூச்சு விடுவதில் சிரமமாக உள்ளது",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_183",
+    "text": "ఆహారం తిన్న తర్వాత నా పెదవులు వాచిపోయాయి, ఊపిరి తీసుకోవడం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_184",
+    "text": "ഭക്ഷണം കഴിച്ചതിന് ശേഷം എന്റെ ചുണ്ടുകൾ വീങ്ങി ശ്വസിക്കാൻ ബുദ്ധിമുട്ടുണ്ട്",
+    "language": "ml",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_185",
+    "text": "I have crushing chest pressure and pain going into my jaw",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "crushing chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_186",
+    "text": "मेरे सीने पर भारी दबाव महसूस हो रहा है और दर्द जबड़े तक जा रहा है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_187",
+    "text": "ನನ್ನ ಎದೆಯಲ್ಲಿ ಭಾರವಾದ ಒತ್ತಡ ಇದೆ ಮತ್ತು ನೋವು ದವಡೆಯ ಕಡೆಗೆ ಹರಡುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_188",
+    "text": "என் மார்பில் கடுமையான அழுத்தம் உள்ளது, வலி தாடை வரை செல்கிறது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_189",
+    "text": "నా ఛాతీలో బలమైన ఒత్తిడి ఉంది, నొప్పి దవడ వరకు వెళ్తోంది",
+    "language": "te",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_190",
+    "text": "എന്റെ നെഞ്ചിൽ ശക്തമായ സമ്മർദ്ദവും വേദന താടിയിലേക്ക് പടരുകയും ചെയ്യുന്നു",
+    "language": "ml",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "jaw pain"
+    ]
+  },
+  {
+    "id": "ex_191",
+    "text": "I suddenly cannot understand what people are saying and one arm feels numb",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_192",
+    "text": "अचानक मुझे लोगों की बात समझ नहीं आ रही है और एक हाथ सुन्न हो गया है",
+    "language": "hi",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_193",
+    "text": "ಏಕಾಏಕಿ ಜನರು ಹೇಳುವುದನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಲು ಆಗುತ್ತಿಲ್ಲ ಮತ್ತು ಒಂದು ಕೈ ಮರಗಟ್ಟಿದೆ",
+    "language": "kn",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_194",
+    "text": "திடீரென்று மற்றவர்கள் பேசுவது புரியவில்லை, ஒரு கை மரத்துப் போல் உள்ளது",
+    "language": "ta",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_195",
+    "text": "అకస్మాత్తుగా ఇతరులు మాట్లాడేది అర్థం కావడం లేదు, ఒక చేయి మొద్దుబారిపోయింది",
+    "language": "te",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_196",
+    "text": "പെട്ടെന്ന് മറ്റുള്ളവർ പറയുന്നത് മനസ്സിലാകുന്നില്ല, ഒരു കൈ മരവിച്ചുപോയി",
+    "language": "ml",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "language difficulty",
+      "arm numbness"
+    ]
+  },
+  {
+    "id": "ex_197",
+    "text": "I accidentally drank pesticide and now I am vomiting repeatedly",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_198",
+    "text": "गलती से मैंने कीटनाशक पी लिया और अब बार बार उल्टी हो रही है",
+    "language": "hi",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_199",
+    "text": "ತಪ್ಪಾಗಿ ಕೀಟನಾಶಕವನ್ನು ಕುಡಿದಿದ್ದೇನೆ ಮತ್ತು ಈಗ ಮತ್ತೆ ಮತ್ತೆ ವಾಂತಿಯಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_200",
+    "text": "தவறுதலாக பூச்சிக்கொல்லியை குடித்துவிட்டேன், இப்போது தொடர்ந்து வாந்தி வருகிறது",
+    "language": "ta",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_201",
+    "text": "పొరపాటున పురుగుమందు తాగాను, ఇప్పుడు పదేపదే వాంతులు అవుతున్నాయి",
+    "language": "te",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_202",
+    "text": "തെറ്റായി കീടനാശിനി കുടിച്ചു, ഇപ്പോൾ തുടർച്ചയായി ഛർദ്ദിക്കുന്നു",
+    "language": "ml",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide ingestion",
+      "repeated vomiting"
+    ]
+  },
+  {
+    "id": "ex_203",
+    "text": "I fell from a motorcycle and my lower leg is badly deformed and very painful",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_204",
+    "text": "मोटरसाइकिल से गिरने के बाद मेरा पैर टेढ़ा हो गया है और बहुत दर्द हो रहा है",
+    "language": "hi",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_205",
+    "text": "ಮೋಟಾರ್ ಸೈಕಲ್‌ನಿಂದ ಬಿದ್ದ ನಂತರ ನನ್ನ ಕಾಲು ವಕ್ರವಾಗಿದೆ ಮತ್ತು ತುಂಬಾ ನೋವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_206",
+    "text": "மோட்டார் சைக்கிளில் இருந்து விழுந்த பிறகு என் கால் வளைந்து மிகவும் வலிக்கிறது",
+    "language": "ta",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_207",
+    "text": "మోటార్ సైకిల్ నుంచి పడిపోయిన తర్వాత నా కాలు వంకరగా మారింది, చాలా నొప్పిగా ఉంది",
+    "language": "te",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_208",
+    "text": "മോട്ടോർ സൈക്കിളിൽ നിന്ന് വീണതിന് ശേഷം എന്റെ കാൽ വളഞ്ഞിരിക്കുന്നു, വളരെ വേദനയുണ്ട്",
+    "language": "ml",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "motorcycle fall",
+      "leg deformity",
+      "severe leg pain"
+    ]
+  },
+  {
+    "id": "ex_209",
+    "text": "I touched a hot pan and burned two fingers; the skin is red and painful",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "hot surface",
+      "finger burn",
+      "red skin",
+      "pain"
+    ]
+  },
+  {
+    "id": "ex_210",
+    "text": "Steam from the cooker burned my forearm and it is blistering",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "steam burn",
+      "forearm burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_211",
+    "text": "I slipped in the bathroom and hit my shoulder, but there is no burn or heat exposure",
+    "language": "en",
+    "categories": [
+      "TRAUMA"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "fall",
+      "shoulder injury"
+    ]
+  },
+  {
+    "id": "ex_212",
+    "text": "A metal object hit my forehead and caused a deep cut, but my skin was not burned",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "BLEEDING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "forehead injury",
+      "deep cut",
+      "bleeding"
+    ]
+  },
+  {
+    "id": "ex_213",
+    "text": "Hot oil splashed onto my hand and the skin is blistered",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hot oil",
+      "hand burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_214",
+    "text": "I was hit by a falling object and my arm is swollen and painful",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "impact injury",
+      "arm swelling",
+      "arm pain"
+    ]
+  },
+  {
+    "id": "ex_215",
+    "text": "The electric wire shocked me and left a burn mark on my hand",
+    "language": "en",
+    "categories": [
+      "BURNS",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "electric shock",
+      "burn mark",
+      "hand injury"
+    ]
+  },
+  {
+    "id": "ex_216",
+    "text": "ನನ್ನ ಕೈ ಬಿಸಿ ಎಣ್ಣೆಗೆ ತಾಗಿ ಸುಟ್ಟುಹೋಗಿದೆ ಮತ್ತು ಚರ್ಮದಲ್ಲಿ ಗುಳ್ಳೆಗಳು ಬಂದಿವೆ",
+    "language": "kn",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hot oil",
+      "hand burn",
+      "blistering"
+    ]
+  },
+  {
+    "id": "ex_217",
+    "text": "I have had a high fever since yesterday and now I am struggling to breathe",
+    "language": "en",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "high fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_218",
+    "text": "Fever ke saath saans lene mein bahut dikkat ho rahi hai",
+    "language": "hi",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_219",
+    "text": "ನನಗೆ ಜ್ವರ ಇದೆ ಮತ್ತು ಉಸಿರಾಡಲು ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_220",
+    "text": "எனக்கு அதிக காய்ச்சலுடன் மூச்சு விடுவதிலும் சிரமமாக உள்ளது",
+    "language": "ta",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "high fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_221",
+    "text": "I inhaled chemical fumes at work and now my chest feels tight and I cannot breathe properly",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical fumes",
+      "chest tightness",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_222",
+    "text": "I accidentally swallowed a cleaning liquid and I am having trouble breathing",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_223",
+    "text": "தவறுதலாக ரசாயனத்தை குடித்துவிட்டேன், இப்போது மூச்சு விட முடியவில்லை",
+    "language": "ta",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical ingestion",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_224",
+    "text": "విషపూరితమైన పొగ పీల్చిన తర్వాత ఛాతి బిగుసుకుని శ్వాస తీసుకోవడం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "toxic fumes",
+      "chest tightness",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_225",
+    "text": "After taking a new medicine, my throat is swelling and I am wheezing",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "medicine exposure",
+      "throat swelling",
+      "wheezing"
+    ]
+  },
+  {
+    "id": "ex_226",
+    "text": "Something I ate caused hives and now my breathing is becoming difficult",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "food exposure",
+      "hives",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_227",
+    "text": "ಔಷಧಿ ತೆಗೆದುಕೊಂಡ ನಂತರ ಗಂಟಲು ಊದಿಕೊಂಡಿದೆ ಮತ್ತು ಉಸಿರಾಟದಲ್ಲಿ ಶಬ್ದ ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "medicine exposure",
+      "throat swelling",
+      "wheezing"
+    ]
+  },
+  {
+    "id": "ex_228",
+    "text": "മരുന്ന് കഴിച്ചതിന് ശേഷം തൊണ്ട വീങ്ങി ശ്വാസം എടുക്കാൻ ബുദ്ധിമുട്ടുണ്ട്",
+    "language": "ml",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "medicine exposure",
+      "throat swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_229",
+    "text": "I fell off my scooter and a deep wound on my knee is bleeding heavily",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "BLEEDING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "scooter fall",
+      "deep knee wound",
+      "heavy bleeding"
+    ]
+  },
+  {
+    "id": "ex_230",
+    "text": "A glass broke and cut my palm badly; blood is flowing continuously",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "BLEEDING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "glass cut",
+      "palm wound",
+      "continuous bleeding"
+    ]
+  },
+  {
+    "id": "ex_231",
+    "text": "ಬೈಕ್‌ನಿಂದ ಬಿದ್ದು ಮೊಣಕಾಲಿಗೆ ಆಳವಾದ ಗಾಯವಾಗಿದೆ ಮತ್ತು ತುಂಬಾ ರಕ್ತ ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "TRAUMA",
+      "BLEEDING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike fall",
+      "deep knee wound",
+      "heavy bleeding"
+    ]
+  },
+  {
+    "id": "ex_232",
+    "text": "నా చేతికి గాజు కోసుకుంది, గాయం నుంచి రక్తం ఆగకుండా వస్తోంది",
+    "language": "te",
+    "categories": [
+      "TRAUMA",
+      "BLEEDING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "glass cut",
+      "hand wound",
+      "continuous bleeding"
+    ]
+  },
+  {
+    "id": "ex_233",
+    "text": "I fell down the stairs and my wrist looks deformed and hurts badly",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "wrist deformity",
+      "severe pain"
+    ]
+  },
+  {
+    "id": "ex_234",
+    "text": "A car hit me and I cannot put any weight on my right leg",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "vehicle impact",
+      "leg injury",
+      "unable to bear weight"
+    ]
+  },
+  {
+    "id": "ex_235",
+    "text": "படிக்கட்டில் இருந்து விழுந்த பிறகு என் மணிக்கட்டு வளைந்து மிகவும் வலிக்கிறது",
+    "language": "ta",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "wrist deformity",
+      "severe pain"
+    ]
+  },
+  {
+    "id": "ex_236",
+    "text": "ಮೆಟ್ಟಿಲಿನಿಂದ ಬಿದ್ದ ನಂತರ ನನ್ನ ಕಾಲಿಗೆ ತೂಕ ಹಾಕಲು ಆಗುತ್ತಿಲ್ಲ ಮತ್ತು ತುಂಬಾ ನೋವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "leg injury",
+      "severe pain"
+    ]
+  },
+  {
+    "id": "ex_237",
+    "text": "She is pregnant and suddenly became confused and had difficulty speaking",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "confusion",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_238",
+    "text": "During pregnancy she suddenly developed severe headache and weakness in one arm",
+    "language": "en",
+    "categories": [
+      "OBSTETRIC",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "severe headache",
+      "one-sided weakness"
+    ]
+  },
+  {
+    "id": "ex_239",
+    "text": "ಗರ್ಭಿಣಿಯಾಗಿರುವಾಗ ಏಕಾಏಕಿ ಗೊಂದಲವಾಗಿ ಮಾತನಾಡಲು ಕಷ್ಟವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "OBSTETRIC",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "confusion",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_240",
+    "text": "கர்ப்பமாக இருக்கும் போது திடீரென கடுமையான தலைவலி மற்றும் ஒரு கையில் பலவீனம் ஏற்பட்டது",
+    "language": "ta",
+    "categories": [
+      "OBSTETRIC",
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pregnancy",
+      "severe headache",
+      "one-sided weakness"
+    ]
+  },
+  {
+    "id": "ex_241",
+    "text": "Bike accident ಆಯಿತು, leg is badly swollen and I can't stand",
+    "language": "kn",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike accident",
+      "leg swelling",
+      "unable to stand"
+    ]
+  },
+  {
+    "id": "ex_242",
+    "text": "Food tinnidmele lips swell aagide and breathing kashta agtide",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "food exposure",
+      "lip swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_243",
+    "text": "Chemical smell inhale maadide, chest tight aagide and saans lene mein problem ide",
+    "language": "mixed",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical exposure",
+      "chest tightness",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_244",
+    "text": "Mujhe fever hai aur breath lene mein bahut difficulty ho rahi hai",
+    "language": "hi",
+    "categories": [
+      "FEVER_INFECTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fever",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_245",
+    "text": "ನನಗೆ ಎದೆ ತುಂಬಾ ಬಿಗಿಯಾಗಿದ್ದು ಬೆವರು ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest tightness",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_246",
+    "text": "எனக்கு திடீரென்று கடுமையான நெஞ்சு வலி மற்றும் வியர்வை வருகிறது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_247",
+    "text": "मुझे अचानक बहुत तेज सीने में दर्द और पसीना आ रहा है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_248",
+    "text": "నాకు ఛాతిలో బిగుతుగా ఉంది మరియు నొప్పి చేతికి వెళ్తోంది",
+    "language": "te",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "pain radiating to arm"
+    ]
+  },
+  {
+    "id": "ex_249",
+    "text": "I suddenly have crushing chest pressure and pain spreading to my left arm",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "radiating arm pain"
+    ]
+  },
+  {
+    "id": "ex_250",
+    "text": "എനിക്ക് കഠിനമായ നെഞ്ചുവേദനയും ഇടത് കൈയിൽ വേദനയും ഉണ്ട്",
+    "language": "ml",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_251",
+    "text": "सीने में दबाव जैसा दर्द है और बहुत पसीना आ रहा है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pressure",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_252",
+    "text": "ನನಗೆ ಎದೆ ನೋವು, ಉಸಿರಾಟದ ತೊಂದರೆ ಮತ್ತು ತಣ್ಣನೆಯ ಬೆವರು ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pain",
+      "breathing difficulty",
+      "cold sweat"
+    ]
+  },
+  {
+    "id": "ex_253",
+    "text": "ನನ್ನ ಕೈಗೆ ಬಿಸಿ ಎಣ್ಣೆ ಬಿದ್ದು ತೀವ್ರವಾಗಿ ಸುಟ್ಟಿದೆ",
+    "language": "kn",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe hand burn",
+      "hot oil burn"
+    ]
+  },
+  {
+    "id": "ex_254",
+    "text": "என் கையில் கொதிக்கும் நீர் விழுந்து மோசமாக சுட்டுவிட்டது",
+    "language": "ta",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe hand burn",
+      "hot water burn"
+    ]
+  },
+  {
+    "id": "ex_255",
+    "text": "నా చేతిపై వేడి నూనె పడడంతో బాగా కాలిపోయింది",
+    "language": "te",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe hand burn",
+      "hot oil burn"
+    ]
+  },
+  {
+    "id": "ex_256",
+    "text": "मेरे हाथ पर गर्म पानी गिर गया और त्वचा बुरी तरह जल गई",
+    "language": "hi",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hand burn",
+      "hot water burn"
+    ]
+  },
+  {
+    "id": "ex_257",
+    "text": "എന്റെ കൈയിൽ ചൂടുള്ള എണ്ണ വീണ് ഗുരുതരമായി പൊള്ളിപ്പോയി",
+    "language": "ml",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "severe hand burn",
+      "hot oil burn"
+    ]
+  },
+  {
+    "id": "ex_258",
+    "text": "My forearm was badly burned by steam and large blisters have formed",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "forearm burn",
+      "steam burn",
+      "blisters"
+    ]
+  },
+  {
+    "id": "ex_259",
+    "text": "ನನ್ನ ಮುಖದ ಮೇಲೆ ಬಿಸಿ ದ್ರವ ಬಿದ್ದು ಸುಟ್ಟ ಗಾಯವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial burn",
+      "hot liquid burn"
+    ]
+  },
+  {
+    "id": "ex_260",
+    "text": "என் காலில் தீக்காயம் ஏற்பட்டுள்ளது மற்றும் தோல் உரிந்து வருகிறது",
+    "language": "ta",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "leg burn",
+      "peeling skin"
+    ]
+  },
+  {
+    "id": "ex_261",
+    "text": "I ate something and now my lips are swollen and I am struggling to breathe",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "swollen lips",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_262",
+    "text": "மருந்து எடுத்த பிறகு தொண்டை வீங்கி மூச்சு விட கஷ்டமாக உள்ளது",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_263",
+    "text": "ನನಗೆ ಆಹಾರ ತಿಂದ ನಂತರ ದೇಹದಾದ್ಯಂತ ಚರ್ಮದ ಗುಳ್ಳೆಗಳು ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಬಂದಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "hives",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_264",
+    "text": "दवा लेने के बाद मेरे गले में सूजन और सांस लेने में परेशानी हो रही है",
+    "language": "hi",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_265",
+    "text": "After eating peanuts I developed hives but I can breathe normally",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hives",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_266",
+    "text": "I have chest pressure with sweating but no rash, itching, or throat swelling",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pressure",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_267",
+    "text": "I have hives and wheezing after eating food",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "hives",
+      "wheezing"
+    ]
+  },
+  {
+    "id": "ex_268",
+    "text": "எனக்கு மார்பு இறுக்கமாக உள்ளது ஆனால் சொறி மற்றும் அரிப்பு கூட உள்ளது",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest tightness",
+      "rash",
+      "itching"
+    ]
+  },
+  {
+    "id": "ex_269",
+    "text": "I accidentally inhaled pesticide fumes and now I am coughing badly",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pesticide exposure",
+      "coughing"
+    ]
+  },
+  {
+    "id": "ex_270",
+    "text": "ಕೀಟನಾಶಕದ ಹೊಗೆಯನ್ನು ಉಸಿರಾಡಿದ ನಂತರ ನನಗೆ ಉಸಿರಾಟದ ತೊಂದರೆ ಇದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pesticide exposure",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_271",
+    "text": "कीटनाशक की गैस सांस में जाने के बाद मुझे खांसी और चक्कर आ रहे हैं",
+    "language": "hi",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pesticide exposure",
+      "coughing",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_272",
+    "text": "வேதிப்பொருளை சுவாசித்த பிறகு எனக்கு இருமலும் மூச்சுத்திணறலும் ஏற்பட்டது",
+    "language": "ta",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical inhalation",
+      "coughing",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_273",
+    "text": "I swallowed a cleaning liquid and now my throat is burning",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical ingestion",
+      "throat burning"
+    ]
+  },
+  {
+    "id": "ex_274",
+    "text": "ನಾನು ಸ್ವಲ್ಪ ಕ್ಲೀನಿಂಗ್ ದ್ರವವನ್ನು ನುಂಗಿದ್ದೇನೆ ಮತ್ತು ವಾಂತಿ ಬರುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_275",
+    "text": "I was exposed to strong paint thinner fumes and feel dizzy",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical fumes",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_276",
+    "text": "നീണ്ട സമയം രാസവാതകം ശ്വസിച്ചതിന് ശേഷം തല ചുറ്റുന്നു",
+    "language": "ml",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical inhalation",
+      "dizziness"
+    ]
+  },
+  {
+    "id": "ex_277",
+    "text": "I bumped my knee lightly but I can walk normally",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor knee bump"
+    ]
+  },
+  {
+    "id": "ex_278",
+    "text": "ನನ್ನ ಕೈಗೆ ಸಣ್ಣ ಗೀರು ಬಿದ್ದಿದೆ, ರಕ್ತಸ್ರಾವ ಈಗಾಗಲೇ ನಿಂತಿದೆ",
+    "language": "kn",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor scratch",
+      "bleeding stopped"
+    ]
+  },
+  {
+    "id": "ex_279",
+    "text": "என் விரலில் சிறிய காயம் மட்டுமே உள்ளது, இரத்தம் வரவில்லை",
+    "language": "ta",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor finger injury"
+    ]
+  },
+  {
+    "id": "ex_280",
+    "text": "मेरा पेट थोड़ा दर्द कर रहा था लेकिन अब ठीक हो रहा है",
+    "language": "hi",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild abdominal pain",
+      "improving"
+    ]
+  },
+  {
+    "id": "ex_281",
+    "text": "My eyes feel a little tired after looking at the screen",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild eye tiredness"
+    ]
+  },
+  {
+    "id": "ex_282",
+    "text": "ನನ್ನ ಕಾಲಿಗೆ ಸಣ್ಣ ಮೂಳೆ ನೋವು ಇದೆ ಆದರೆ ಊತ ಅಥವಾ ಗಾಯ ಇಲ್ಲ",
+    "language": "kn",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild leg discomfort"
+    ]
+  },
+  {
+    "id": "ex_283",
+    "text": "I have a tiny bruise and there is no pain or swelling",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise"
+    ]
+  },
+  {
+    "id": "ex_284",
+    "text": "எனக்கு லேசான வயிற்று அசௌகரியம் மட்டும் உள்ளது, அது குறைந்து வருகிறது",
+    "language": "ta",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild abdominal discomfort",
+      "improving"
+    ]
+  },
+  {
+    "id": "ex_285",
+    "text": "ನನಗೆ chest pain ತುಂಬಾ ಇದೆ ಮತ್ತು sweating ಆಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "sweating"
+    ]
+  },
+  {
+    "id": "ex_286",
+    "text": "எனக்கு breathing difficulty இருக்கு, மேலும் hives வந்திருக்கிறது",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "breathing difficulty",
+      "hives"
+    ]
+  },
+  {
+    "id": "ex_287",
+    "text": "ನಾನು chemical fumes inhale ಮಾಡಿದೆ ಮತ್ತು ಈಗ coughing ಆಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical inhalation",
+      "coughing"
+    ]
+  },
+  {
+    "id": "ex_288",
+    "text": "मुझे chest tightness है और सांस लेने में बहुत difficulty हो रही है",
+    "language": "hi",
+    "categories": [
+      "RESPIRATORY"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest tightness",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_289",
+    "text": "నా hand మీద hot oil పడింది, చాలా burn అయింది",
+    "language": "te",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hand burn",
+      "hot oil burn"
+    ]
+  },
+  {
+    "id": "ex_290",
+    "text": "எனக்கு severe chest pain இருக்கு, left arm க்கும் pain போகுது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "severe chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_291",
+    "text": "ನನಗೆ food allergy ಆದ ಮೇಲೆ throat swelling ಮತ್ತು breathing problem ಬಂದಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "food allergy",
+      "throat swelling",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_292",
+    "text": "I fell from my bike, but there is only a small bruise and no pain",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise",
+      "bike fall",
+      "no pain"
+    ]
+  },
+  {
+    "id": "ex_293",
+    "text": "My lips suddenly became swollen after eating peanuts and I am struggling to breathe",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_294",
+    "text": "After taking the medicine my throat feels tight and I cannot breathe properly",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat tightness",
+      "breathing difficulty",
+      "medicine exposure"
+    ]
+  },
+  {
+    "id": "ex_295",
+    "text": "खाना खाने के बाद मेरे होंठ सूज गए और सांस लेने में बहुत परेशानी हो रही है",
+    "language": "hi",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "lip swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_296",
+    "text": "ಆಹಾರ ತಿಂದ ನಂತರ ನನ್ನ ಮುಖ ಊದಿಕೊಂಡಿದೆ ಮತ್ತು ಉಸಿರಾಡಲು ತುಂಬಾ ಕಷ್ಟವಾಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "facial swelling",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_297",
+    "text": "மருந்து எடுத்த பிறகு தொண்டை இறுக்கமாகி மூச்சு விட முடியவில்லை",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat tightness",
+      "breathing difficulty",
+      "medicine exposure"
+    ]
+  },
+  {
+    "id": "ex_298",
+    "text": "ఆహారం తిన్న తర్వాత గొంతు బిగుసుకుపోయి ఊపిరి తీసుకోవడం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "ALLERGIC_REACTION",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "throat tightness",
+      "breathing difficulty",
+      "food exposure"
+    ]
+  },
+  {
+    "id": "ex_299",
+    "text": "My skin is covered in hives but I am breathing normally",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "hives",
+      "no breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_300",
+    "text": "I have a rash and swollen lips after eating something, but my breathing is normal",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "rash",
+      "lip swelling",
+      "food exposure",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_301",
+    "text": "I inhaled pesticide fumes and now I am coughing and struggling to breathe",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide inhalation",
+      "coughing",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_302",
+    "text": "There was a chemical leak and after breathing the fumes I became short of breath",
+    "language": "en",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical exposure",
+      "fume inhalation",
+      "shortness of breath"
+    ]
+  },
+  {
+    "id": "ex_303",
+    "text": "I accidentally swallowed pesticide and have severe vomiting",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pesticide ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_304",
+    "text": "I inhaled smoke from a chemical spill but I can breathe normally now",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chemical inhalation",
+      "smoke exposure",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_305",
+    "text": "गलती से कीटनाशक की गैस सांस में चली गई और अब मुझे सांस लेने में दिक्कत हो रही है",
+    "language": "hi",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "pesticide inhalation",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_306",
+    "text": "ರಾಸಾಯನಿಕ ಹೊಗೆಯನ್ನು ಉಸಿರಾಡಿದ ನಂತರ ನನಗೆ ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಶುರುವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical inhalation",
+      "coughing",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_307",
+    "text": "தவறுதலாக பூச்சிக்கொல்லியை குடித்துவிட்டேன், தொடர்ந்து வாந்தி வருகிறது",
+    "language": "ta",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "pesticide ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_308",
+    "text": "రసాయన వాయువును పీల్చిన తర్వాత దగ్గు వస్తోంది మరియు ఊపిరి తీసుకోవడం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical inhalation",
+      "coughing",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_309",
+    "text": "The left side of my face suddenly became weak and I cannot speak clearly",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_310",
+    "text": "I suddenly became confused and cannot understand what people are saying",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "sudden confusion",
+      "difficulty understanding speech"
+    ]
+  },
+  {
+    "id": "ex_311",
+    "text": "My vision suddenly became blurry in one eye and I feel weak on one side",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "sudden visual disturbance",
+      "one-sided weakness"
+    ]
+  },
+  {
+    "id": "ex_312",
+    "text": "My eyes feel tired after working on the computer but my vision is otherwise normal",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "eye tiredness",
+      "computer use",
+      "normal vision"
+    ]
+  },
+  {
+    "id": "ex_313",
+    "text": "I have a mild headache after studying for several hours and it is getting better",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild headache",
+      "improving"
+    ]
+  },
+  {
+    "id": "ex_314",
+    "text": "ನನಗೆ ಕಂಪ್ಯೂಟರ್ ಬಳಸಿದ ನಂತರ ಸ್ವಲ್ಪ ಕಣ್ಣಿನ ದಣಿವು ಇದೆ, ಬೇರೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇಲ್ಲ",
+    "language": "kn",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "eye tiredness",
+      "computer use"
+    ]
+  },
+  {
+    "id": "ex_315",
+    "text": "I fell from a bike and now I cannot put any weight on my injured leg",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "bike fall",
+      "leg injury",
+      "unable to bear weight"
+    ]
+  },
+  {
+    "id": "ex_316",
+    "text": "I fell down the stairs and my arm looks deformed and extremely painful",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "arm deformity",
+      "severe pain"
+    ]
+  },
+  {
+    "id": "ex_317",
+    "text": "I bumped my knee lightly and there is only a small bruise with no pain",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise",
+      "no pain"
+    ]
+  },
+  {
+    "id": "ex_318",
+    "text": "I got a tiny cut on my finger and it stopped bleeding quickly",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor cut",
+      "bleeding stopped"
+    ]
+  },
+  {
+    "id": "ex_319",
+    "text": "I slipped and hurt my ankle badly; it is swollen and I cannot walk",
+    "language": "en",
+    "categories": [
+      "TRAUMA",
+      "FRACTURE_MUSCULOSKELETAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "fall",
+      "ankle injury",
+      "swelling",
+      "unable to walk"
+    ]
+  },
+  {
+    "id": "ex_320",
+    "text": "I lightly bumped my shoulder against a door but I can move it normally",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor impact",
+      "normal movement"
+    ]
+  },
+  {
+    "id": "ex_321",
+    "text": "ನನಗೆ ಎದೆ ನೋವು ಮತ್ತು ಎಡಗೈಗೆ ನೋವು ಹರಡುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chest pain",
+      "pain radiating to left arm"
+    ]
+  },
+  {
+    "id": "ex_322",
+    "text": "எனக்கு திடீரென்று முகத்தின் ஒரு பக்கம் பலவீனமாகி பேச்சு தெளிவாக வரவில்லை",
+    "language": "ta",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "one-sided facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_323",
+    "text": "मुझे अचानक चक्कर आ रहा है और बोलने में परेशानी हो रही है",
+    "language": "hi",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "sudden dizziness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_324",
+    "text": "ആഹാരം കഴിച്ചതിന് ശേഷം ചുണ്ടുകൾ വീങ്ങി, പക്ഷേ ശ്വാസം സാധാരണമാണ്",
+    "language": "ml",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food exposure",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_325",
+    "text": "ರಾಸಾಯನಿಕ ಹೊಗೆ ಉಸಿರಾಡಿದ ನಂತರ ಕೆಮ್ಮು ಬರುತ್ತಿದೆ ಮತ್ತು ಉಸಿರಾಟ ಕಷ್ಟವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "chemical inhalation",
+      "coughing",
+      "breathing difficulty"
+    ]
+  },
+  {
+    "id": "ex_326",
+    "text": "నా కాలి మీద చిన్న గాయం ఉంది, రక్తస్రావం ఆగిపోయింది మరియు నొప్పి లేదు",
+    "language": "te",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor leg wound",
+      "bleeding stopped",
+      "no pain"
+    ]
+  },
+  {
+    "id": "ex_327",
+    "text": "என் கையில் சிறிய காயம் உள்ளது, இரத்தம் உடனே நின்றுவிட்டது",
+    "language": "ta",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor hand wound",
+      "bleeding stopped"
+    ]
+  },
+  {
+    "id": "ex_328",
+    "text": "मुझे हल्का पेट दर्द था लेकिन अब ठीक हो रहा है और कोई और लक्षण नहीं हैं",
+    "language": "hi",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild abdominal pain",
+      "improving",
+      "no other symptoms"
+    ]
+  },
+  {
+    "id": "ex_329",
+    "text": "My chest hurts badly and the pain spreads to my left arm",
+    "language": "en",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_330",
+    "text": "ನನಗೆ ಎದೆ ನೋವು ಮತ್ತು ಎಡಗೈಯಲ್ಲಿ ನೋವು ಇದೆ",
+    "language": "kn",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_331",
+    "text": "என் மார்பில் கடுமையான வலி உள்ளது, அது இடது கைக்கு பரவுகிறது",
+    "language": "ta",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_332",
+    "text": "എനിക്ക് നെഞ്ചിൽ ശക്തമായ വേദനയും ഇടത് കൈയിൽ വേദനയും ഉണ്ട്",
+    "language": "ml",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_333",
+    "text": "मुझे सीने में दर्द है और दर्द बाएं हाथ तक जा रहा है",
+    "language": "hi",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_334",
+    "text": "నాకు ఛాతిలో బలమైన నొప్పి ఉంది, అది ఎడమ చేతికి వ్యాపిస్తోంది",
+    "language": "te",
+    "categories": [
+      "CARDIAC"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "chest pain",
+      "left arm pain"
+    ]
+  },
+  {
+    "id": "ex_335",
+    "text": "One side of my face suddenly became weak and my speech is unclear",
+    "language": "en",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_336",
+    "text": "ನನ್ನ ಮುಖದ ಒಂದು ಬದಿ ಏಕಾಏಕಿ ದುರ್ಬಲವಾಗಿದೆ ಮತ್ತು ಮಾತು ಸ್ಪಷ್ಟವಾಗುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_337",
+    "text": "என் முகத்தின் ஒரு பக்கம் திடீரென பலவீனமாகி, பேச்சு தெளிவாக இல்லை",
+    "language": "ta",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_338",
+    "text": "मेरे चेहरे का एक तरफ अचानक कमजोर हो गया है और बोलने में दिक्कत है",
+    "language": "hi",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_339",
+    "text": "నా ముఖం ఒక వైపు అకస్మాత్తుగా బలహీనంగా మారింది, మాట స్పష్టంగా రావడం లేదు",
+    "language": "te",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_340",
+    "text": "എന്റെ മുഖത്തിന്റെ ഒരു വശം പെട്ടെന്ന് ദുർബലമായി, സംസാരിക്കാൻ ബുദ്ധിമുട്ടുണ്ട്",
+    "language": "ml",
+    "categories": [
+      "NEUROLOGICAL"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "facial weakness",
+      "speech difficulty"
+    ]
+  },
+  {
+    "id": "ex_341",
+    "text": "I touched a hot pan and burned two fingers",
+    "language": "en",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_342",
+    "text": "ചൂടുള്ള പാത്രം തൊട്ടപ്പോൾ രണ്ട് വിരലുകൾ പൊള്ളിപ്പോയി",
+    "language": "ml",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_343",
+    "text": "ನಾನು ಬಿಸಿ ಪಾತ್ರೆಯನ್ನು ಮುಟ್ಟಿದಾಗ ಎರಡು ಬೆರಳುಗಳು ಸುಟ್ಟವು",
+    "language": "kn",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_344",
+    "text": "मैंने गर्म बर्तन छू लिया और मेरी दो उंगलियां जल गईं",
+    "language": "hi",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_345",
+    "text": "நான் சூடான பாத்திரத்தை தொட்டதால் இரண்டு விரல்கள் எரிந்துவிட்டன",
+    "language": "ta",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_346",
+    "text": "నేను వేడి పాత్రను తాకడంతో రెండు వేళ్లు కాలిపోయాయి",
+    "language": "te",
+    "categories": [
+      "BURNS"
+    ],
+    "severity": "MEDIUM",
+    "symptoms": [
+      "finger burn"
+    ]
+  },
+  {
+    "id": "ex_347",
+    "text": "I accidentally swallowed a cleaning liquid and now I am vomiting",
+    "language": "en",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_348",
+    "text": "ഞാൻ അബദ്ധത്തിൽ ക്ലീനിംഗ് ലിക്വിഡ് കുടിച്ചു, ഇപ്പോൾ ഛർദ്ദിക്കുന്നു",
+    "language": "ml",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_349",
+    "text": "ನಾನು ತಪ್ಪಾಗಿ ಕ್ಲೀನಿಂಗ್ ದ್ರವವನ್ನು ಕುಡಿದೆ, ಈಗ ವಾಂತಿ ಆಗುತ್ತಿದೆ",
+    "language": "kn",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_350",
+    "text": "मैंने गलती से सफाई वाला तरल पी लिया और अब उल्टी हो रही है",
+    "language": "hi",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_351",
+    "text": "தவறுதலாக சுத்தம் செய்யும் திரவத்தை குடித்துவிட்டேன், இப்போது வாந்தி வருகிறது",
+    "language": "ta",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_352",
+    "text": "నేను పొరపాటున శుభ్రం చేసే ద్రవాన్ని తాగాను, ఇప్పుడు వాంతులు అవుతున్నాయి",
+    "language": "te",
+    "categories": [
+      "POISONING"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "cleaning liquid ingestion",
+      "vomiting"
+    ]
+  },
+  {
+    "id": "ex_353",
+    "text": "My two-year-old is breathing very fast and struggling to breathe",
+    "language": "en",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_354",
+    "text": "ನನ್ನ ಎರಡು ವರ್ಷದ ಮಗುವಿಗೆ ತುಂಬಾ ವೇಗವಾಗಿ ಉಸಿರಾಡುತ್ತಿದೆ ಮತ್ತು ಉಸಿರಾಟ ಕಷ್ಟವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_355",
+    "text": "என் இரண்டு வயது குழந்தைக்கு வேகமாக மூச்சு வருகிறது, மூச்சுவிட சிரமமாக உள்ளது",
+    "language": "ta",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_356",
+    "text": "मेरे दो साल के बच्चे को बहुत तेज सांस आ रही है और सांस लेने में परेशानी है",
+    "language": "hi",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_357",
+    "text": "నా రెండేళ్ల బిడ్డ చాలా వేగంగా శ్వాస తీసుకుంటోంది మరియు ఊపిరి తీసుకోవడం కష్టంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_358",
+    "text": "എന്റെ രണ്ട് വയസ്സുള്ള കുഞ്ഞിന് വളരെ വേഗത്തിൽ ശ്വസിക്കുകയാണ്, ശ്വാസം എടുക്കാൻ ബുദ്ധിമുട്ടുണ്ട്",
+    "language": "ml",
+    "categories": [
+      "PEDIATRIC",
+      "RESPIRATORY"
+    ],
+    "severity": "CRITICAL",
+    "symptoms": [
+      "child",
+      "rapid breathing",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "id": "ex_359",
+    "text": "I cut my palm deeply on broken glass and the bleeding will not stop",
+    "language": "en",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_360",
+    "text": "ಒಡೆದ ಗಾಜಿನಿಂದ ನನ್ನ ಕೈಗೆ ಆಳವಾದ ಗಾಯವಾಗಿದೆ ಮತ್ತು ರಕ್ತ ನಿಲ್ಲುತ್ತಿಲ್ಲ",
+    "language": "kn",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_361",
+    "text": "உடைந்த கண்ணாடியால் என் உள்ளங்கையில் ஆழமான வெட்டு ஏற்பட்டுள்ளது, ரத்தம் நிற்கவில்லை",
+    "language": "ta",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_362",
+    "text": "मेरी हथेली कांच से गहराई से कट गई है और खून बंद नहीं हो रहा",
+    "language": "hi",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_363",
+    "text": "నాకు పగిలిన గాజుతో చేతిలో లోతైన కోత పడింది, రక్తం ఆగడం లేదు",
+    "language": "te",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_364",
+    "text": "പൊട്ടിയ ഗ്ലാസ് കൊണ്ട് കൈപ്പത്തിയിൽ ആഴത്തിലുള്ള മുറിവായി, രക്തസ്രാവം നിർത്തുന്നില്ല",
+    "language": "ml",
+    "categories": [
+      "BLEEDING",
+      "TRAUMA"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "deep cut",
+      "heavy bleeding",
+      "glass injury"
+    ]
+  },
+  {
+    "id": "ex_365",
+    "text": "I have a tiny bruise on my arm but I can move it normally",
+    "language": "en",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise"
+    ]
+  },
+  {
+    "id": "ex_366",
+    "text": "എന്റെ കൈയിൽ ചെറിയൊരു ചതവ് മാത്രമേയുള്ളൂ, സാധാരണ പോലെ ചലിപ്പിക്കാം",
+    "language": "ml",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor bruise"
+    ]
+  },
+  {
+    "id": "ex_367",
+    "text": "ನನ್ನ ಬೆರಳಿನಲ್ಲಿ ಸಣ್ಣ ಗಾಯವಿದೆ, ರಕ್ತಸ್ರಾವ ಈಗ ಸಂಪೂರ್ಣವಾಗಿ ನಿಂತಿದೆ",
+    "language": "kn",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor cut",
+      "bleeding stopped"
+    ]
+  },
+  {
+    "id": "ex_368",
+    "text": "मेरे हाथ पर हल्की खरोंच है और कोई खास दर्द नहीं है",
+    "language": "hi",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "minor scratch"
+    ]
+  },
+  {
+    "id": "ex_369",
+    "text": "எனக்கு லேசான வயிற்று அசௌகரியம் இருந்தது, இப்போது நன்றாக உள்ளது",
+    "language": "ta",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild stomach discomfort"
+    ]
+  },
+  {
+    "id": "ex_370",
+    "text": "నాకు కొద్దిగా వికారం ఉంది కానీ సాధారణంగా తినగలుగుతున్నాను",
+    "language": "te",
+    "categories": [],
+    "severity": "LOW",
+    "symptoms": [
+      "mild nausea"
+    ]
+  },
+  {
+    "id": "ex_371",
+    "text": "My lips became swollen after eating peanuts, but my breathing is normal",
+    "language": "en",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food allergy",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_372",
+    "text": "ಕಡಲೆಕಾಯಿ ತಿಂದ ನಂತರ ನನ್ನ ತುಟಿಗಳು ಊದಿಕೊಂಡಿವೆ, ಆದರೆ ಉಸಿರಾಟ ಸಾಮಾನ್ಯವಾಗಿದೆ",
+    "language": "kn",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food allergy",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_373",
+    "text": "வேர்க்கடலை சாப்பிட்ட பிறகு உதடுகள் வீங்கியுள்ளன, ஆனால் மூச்சு சாதாரணமாக உள்ளது",
+    "language": "ta",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food allergy",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_374",
+    "text": "दवा लेने के बाद मेरे होंठ सूज गए हैं, लेकिन सांस सामान्य है",
+    "language": "hi",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "medicine allergy",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_375",
+    "text": "വറുത്ത നിലക്കടല കഴിച്ചതിന് ശേഷം ചുണ്ടുകൾ വീർന്നു, പക്ഷേ ശ്വാസം സാധാരണമാണ്",
+    "language": "ml",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food allergy",
+      "normal breathing"
+    ]
+  },
+  {
+    "id": "ex_376",
+    "text": "వేరుశెనగ తిన్న తర్వాత నా పెదవులు వాపాయి, కానీ శ్వాస సాధారణంగా ఉంది",
+    "language": "te",
+    "categories": [
+      "ALLERGIC_REACTION"
+    ],
+    "severity": "HIGH",
+    "symptoms": [
+      "lip swelling",
+      "food allergy",
+      "normal breathing"
+    ]
+  }
+]
