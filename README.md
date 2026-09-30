@@ -306,17 +306,35 @@ medpulse-blr/
 │   └── raw/
 │
 ├── scripts/
-│   └── inspect_uphc.py
+│   ├── add_nlp_examples.py
+│   ├── add_v11_hard_negatives.py
+│   ├── add_v6_examples.py
+│   ├── audit_coordinates.py
+│   ├── build_hospital_dataset.py
+│   ├── create_fixed_benchmark.py
+│   ├── enrich_coordinates.py
+│   ├── inspect_uphc.py
+│   ├── load_hospitals.py
+│   ├── seed_simulated_beds.py
+│   └── verify_hospital_coordinates.py
 │
 ├── templates/
 │   └── index.html
 │
 ├── tests/
+│   ├── analyze_nlp_scores.py
 │   ├── evaluate_nlp.py
+│   ├── evaluate_nlp_v15.py
+│   ├── evaluate_nlp_v15_1.py
+│   ├── evaluate_nlp_v15_2.py
+│   ├── evaluate_nlp_v15_3.py
 │   ├── evaluate_nlp_v15_4.py
 │   ├── test_audio.py
 │   ├── test_emergency_router.py
 │   ├── test_full_pipeline.py
+│   ├── test_hindi_asr.py
+│   ├── test_hindi_medium.py
+│   ├── test_hindi_wav.py
 │   ├── test_hospital_capability.py
 │   ├── test_ranking.py
 │   ├── test_requirements.py
