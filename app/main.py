@@ -205,13 +205,9 @@ def triage_emergency(
 
 @app.post("/triage/audio")
 async def triage_audio(
-
+    latitude: float,
+    longitude: float,
     file: UploadFile = File(...),
-
-    latitude: float = 12.9716,
-
-    longitude: float = 77.5946,
-
 ):
 
     # --------------------------------------------------------
