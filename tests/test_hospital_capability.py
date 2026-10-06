@@ -1,45 +1,49 @@
+﻿import pytest
+
 from app.hospital_capability import (
     get_hospital_facility_level,
     hospital_supports_requirement,
 )
 
 
-test_types = [
-    "BBMP Health Centre",
-    "BBMP Urban Family Welfare Centre",
-    "BBMP Maternity Home",
-    "BBMP Referral Hospital",
-    "BBMP Referral/UCHC Facility",
-]
-
-
-for hospital_type in test_types:
+@pytest.mark.parametrize(
+    "hospital_type, expected_level",
+    [
+        ("BBMP Health Centre", "PRIMARY"),
+        ("BBMP Urban Family Welfare Centre", "PRIMARY"),
+        ("BBMP Maternity Home", "MATERNITY"),
+        ("BBMP Referral Hospital", "REFERRAL"),
+        ("BBMP Referral/UCHC Facility", "REFERRAL"),
+    ],
+)
+def test_get_hospital_facility_level(
+    hospital_type,
+    expected_level,
+):
     level = get_hospital_facility_level(hospital_type)
 
-    print(
-        f"{hospital_type} → {level}"
-    )
+    assert level == expected_level
 
 
-print("\nRequirement tests:")
-
-tests = [
-    ("BBMP Health Centre", "PRIMARY"),
-    ("BBMP Health Centre", "REFERRAL"),
-    ("BBMP Maternity Home", "MATERNITY"),
-    ("BBMP Maternity Home", "REFERRAL"),
-    ("BBMP Referral Hospital", "REFERRAL"),
-    ("BBMP Referral/UCHC Facility", "REFERRAL"),
-]
-
-
-for hospital_type, required_level in tests:
+@pytest.mark.parametrize(
+    "hospital_type, required_level, expected_result",
+    [
+        ("BBMP Health Centre", "PRIMARY", True),
+        ("BBMP Health Centre", "REFERRAL", False),
+        ("BBMP Maternity Home", "MATERNITY", True),
+        ("BBMP Maternity Home", "REFERRAL", False),
+        ("BBMP Referral Hospital", "REFERRAL", True),
+        ("BBMP Referral/UCHC Facility", "REFERRAL", True),
+    ],
+)
+def test_hospital_supports_requirement(
+    hospital_type,
+    required_level,
+    expected_result,
+):
     result = hospital_supports_requirement(
         hospital_type,
         required_level,
     )
 
-    print(
-        f"{hospital_type} | "
-        f"requires {required_level} → {result}"
-    )
+    assert result == expected_result
